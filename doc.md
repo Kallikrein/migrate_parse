@@ -1,1 +1,1 @@
-docker run -v $(PWD):/usr/src/app --link server_postgresql_1:mainDB kallikrein/sails
+docker run -v $(PWD):/src --link server_postgresql_1:mainDB kallikrein/sails
