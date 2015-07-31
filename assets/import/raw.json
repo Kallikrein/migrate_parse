@@ -1,0 +1,2530 @@
+[
+    {
+        "answer": {
+            "explanation": "Le digital in-store permet d’enrichir et d’améliorer l’expérience du consommateur en magasin.Il s’agit pour les marques d’offrir au visiteur une expérience originale et mémorable, permettant de renforcer le lien entre la marque et le client.",
+            "mediaType": 1,
+            "rightAnswer": "Vrai"
+        },
+        "answerIsPortrait": false,
+        "answerMedia": {
+            "__type": "File",
+            "name": "tfss-349127fc-335f-46f0-8874-99e54b79a90c-answer.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-349127fc-335f-46f0-8874-99e54b79a90c-answer.jpg"
+        },
+        "darkBackground": false,
+        "point": 1,
+        "question": {
+            "answerFormat": "3",
+            "answers": [
+                "Vrai",
+                "Faux"
+            ],
+            "background": "0",
+            "mediaType": 1,
+            "question": "Le digital in-store c'est équiper un point de vente d’un dispositif digital"
+        },
+        "questionIsPortrait": false,
+        "questionMedia": {
+            "__type": "File",
+            "name": "tfss-47e78fcd-147a-4f3b-a0d3-31f2927e8d1e-question.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-47e78fcd-147a-4f3b-a0d3-31f2927e8d1e-question.jpg"
+        },
+        "type": "quiz",
+        "objectId": "APEzPbIx8K"
+    },
+    {
+        "answer": {
+            "explanation": "Vrai. 95% des applications téléchargées ne sont pas utilisées au-delà de 30 jours.",
+            "mediaType": 1,
+            "rightAnswer": "Vrai"
+        },
+        "answerIsPortrait": false,
+        "answerMedia": {
+            "__type": "File",
+            "name": "tfss-61705cc6-40e2-4ffb-ae35-244c9a5ccf79-answer.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-61705cc6-40e2-4ffb-ae35-244c9a5ccf79-answer.jpg"
+        },
+        "darkBackground": false,
+        "point": 1,
+        "question": {
+            "answerFormat": "3",
+            "answers": [
+                "Vrai",
+                "Faux"
+            ],
+            "background": 0,
+            "mediaType": 1,
+            "question": "En moyenne, seulement 12 applications sont utilisées sur mobile"
+        },
+        "questionIsPortrait": false,
+        "questionMedia": {
+            "__type": "File",
+            "name": "tfss-dda5fcb6-511c-428b-bc6c-fc391ea2747b-question.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-dda5fcb6-511c-428b-bc6c-fc391ea2747b-question.jpg"
+        },
+        "type": "quiz",
+        "objectId": "Guue5zR3sv"
+    },
+    {
+        "answer": {
+            "explanation": "Vrai. Avec 24,1 millions (44%) de détenteurs de smartphones en France, cet usage du mobile en magasin, déjà très développé, devrait encore augmenter dans les prochaines années.",
+            "mediaType": 1,
+            "rightAnswer": "Vrai"
+        },
+        "answerIsPortrait": false,
+        "answerMedia": {
+            "__type": "File",
+            "name": "tfss-4ba51f72-0947-4bce-a9fd-75694353c339-answer.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-4ba51f72-0947-4bce-a9fd-75694353c339-answer.jpg"
+        },
+        "darkBackground": true,
+        "point": 1,
+        "question": {
+            "answerFormat": "3",
+            "answers": [
+                "Vrai",
+                "Faux"
+            ],
+            "background": 0,
+            "mediaType": 1,
+            "question": "22% des Français utilisent leur téléphone en magasin pour comparer les prix"
+        },
+        "questionIsPortrait": false,
+        "questionMedia": {
+            "__type": "File",
+            "name": "tfss-208b5f56-3754-40f0-91a6-f681c318a381-question.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-208b5f56-3754-40f0-91a6-f681c318a381-question.jpg"
+        },
+        "type": "quiz",
+        "objectId": "yM16wKI9us"
+    },
+    {
+        "answer": {
+            "explanation": "Vrai. On compte 19,4 millions d’utilisateurs de smartphones en France et 4,5 millions de Français ont déjà acheté par Internet en utilisant leur téléphone mobile. Le M-Commerce est en plein essor et les entreprises auraient tort de ne pas s’y intéresser.",
+            "mediaType": 1,
+            "rightAnswer": "Vrai"
+        },
+        "answerIsPortrait": false,
+        "answerMedia": {
+            "__type": "File",
+            "name": "tfss-043c250d-4050-4907-b9a0-ab8139189bc1-answer.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-043c250d-4050-4907-b9a0-ab8139189bc1-answer.jpg"
+        },
+        "darkBackground": true,
+        "point": 1,
+        "question": {
+            "answerFormat": "3",
+            "answers": [
+                "Vrai",
+                "Faux"
+            ],
+            "background": 0,
+            "mediaType": 1,
+            "question": "57% des mobinautes français ont déjà acheté via mobile"
+        },
+        "questionIsPortrait": false,
+        "questionMedia": {
+            "__type": "File",
+            "name": "tfss-2a8a056a-2807-4078-a5de-6d179a413ce3-question.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-2a8a056a-2807-4078-a5de-6d179a413ce3-question.jpg"
+        },
+        "type": "quiz",
+        "objectId": "qofnYdjh53"
+    },
+    {
+        "answer": {
+            "explanation": "Chaque jour, nous regarderions notre téléphone pas moins de 156 fois, ne serait-ce que pour jeter un coup d'oeil. Cela veut dire que chacun regarde son mobile toutes les 6,5 minutes.",
+            "mediaType": 1,
+            "rightAnswer": "Vrai"
+        },
+        "answerIsPortrait": false,
+        "answerMedia": {
+            "__type": "File",
+            "name": "tfss-ef91eb29-2bf1-4676-b47c-1b06538f3848-answer.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-ef91eb29-2bf1-4676-b47c-1b06538f3848-answer.jpg"
+        },
+        "darkBackground": true,
+        "point": 1,
+        "question": {
+            "answerFormat": "3",
+            "answers": [
+                "Vrai",
+                "Faux"
+            ],
+            "background": 0,
+            "mediaType": 1,
+            "question": "En moyenne nous regardons notre mobile plus de 150 fois par jour."
+        },
+        "questionIsPortrait": false,
+        "questionMedia": {
+            "__type": "File",
+            "name": "tfss-76664b2d-bc9f-47fb-a711-bd27b37f3640-question.png",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-76664b2d-bc9f-47fb-a711-bd27b37f3640-question.png"
+        },
+        "type": "quiz",
+        "objectId": "8M0iTEeKrU"
+    },
+    {
+        "answer": {
+            "explanation": "Les DMP sont des outils permettant de rassembler de la donnée tierces et propriétaires sur des clients et des prospects. Ces outils permettent de segmenter, de cibler, d'optimiser et d'analyser les campagnes web sur des audiences spécifiques.",
+            "mediaType": 1,
+            "rightAnswer": "Une plateforme de centralisation des données de marketing en ligne"
+        },
+        "answerIsPortrait": false,
+        "answerMedia": {
+            "__type": "File",
+            "name": "tfss-f19846db-8134-4694-b5fd-e848f2908b8a-answer.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-f19846db-8134-4694-b5fd-e848f2908b8a-answer.jpg"
+        },
+        "darkBackground": false,
+        "point": 1,
+        "question": {
+            "answerFormat": "0",
+            "answers": [
+                "Un logiciel d'achat automatique d'inventaires de publicités en ligne",
+                "Une plateforme de centralisation des données de marketing en ligne"
+            ],
+            "background": 0,
+            "mediaType": 1,
+            "question": "En marketing digital, qu'est ce qu'une Data Management Platform (DMP)?"
+        },
+        "questionIsPortrait": false,
+        "questionMedia": {
+            "__type": "File",
+            "name": "tfss-9c4e9385-599d-4dc3-aa47-9e627a973cb7-question.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-9c4e9385-599d-4dc3-aa47-9e627a973cb7-question.jpg"
+        },
+        "type": "quiz",
+        "objectId": "GuOROkkIZr"
+    },
+    {
+        "answer": {
+            "explanation": "XDGXFXDGHF  DXHGXJDHGXD DXJGXDJG XJXDGJ",
+            "mediaType": 1,
+            "rightAnswer": "DXNGHX"
+        },
+        "answerIsPortrait": false,
+        "answerMedia": {
+            "__type": "File",
+            "name": "tfss-27dce97f-9fd7-4a6f-ab94-72e5009122b1-answer.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-27dce97f-9fd7-4a6f-ab94-72e5009122b1-answer.jpg"
+        },
+        "darkBackground": true,
+        "point": 1,
+        "question": {
+            "answerFormat": "1",
+            "answers": [
+                "HGDGX",
+                "DXNGHX",
+                "XDGDFXH"
+            ],
+            "background": 0,
+            "mediaType": 1,
+            "question": "GFSXZDHXGX JDXHJHZG ZDJXZXJ"
+        },
+        "questionIsPortrait": false,
+        "questionMedia": {
+            "__type": "File",
+            "name": "tfss-f45a3708-8761-4a4c-8b1f-a9894e77fd29-question.png",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-f45a3708-8761-4a4c-8b1f-a9894e77fd29-question.png"
+        },
+        "type": "quiz",
+        "objectId": "NmXcmwXOSe"
+    },
+    {
+        "answer": {
+            "explanation": "Quand nous téléphonons, payons par CB, tchattons, téléchargeons de la musique, nous produisons un grand nombre d'informations, enregistrées au format numérique (chiffres, fichiers, images..) On appelle cela le \"Big Data\" en anglais, ou masse de données.",
+            "mediaType": 2,
+            "rightAnswer": "La masse de données qui transite chaque jour sur le web",
+            "videoUrl": "https://www.youtube.com/embed/jjzMKRGygN0"
+        },
+        "answerIsPortrait": false,
+        "darkBackground": false,
+        "point": 2,
+        "question": {
+            "answerFormat": "2",
+            "answers": [
+                "La masse de données qui transite chaque jour sur le web",
+                "Les données issues uniquement des objets connectées",
+                "Les données issues uniquement des réseaux sociaux",
+                "Les données relatives uniquement aux consommateurs"
+            ],
+            "background": 0,
+            "mediaType": 1,
+            "question": "BIG DATA est un terme qui désigne :"
+        },
+        "questionIsPortrait": false,
+        "questionMedia": {
+            "__type": "File",
+            "name": "tfss-8c7db93e-9239-4020-aeb8-64c79d1771af-question.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-8c7db93e-9239-4020-aeb8-64c79d1771af-question.jpg"
+        },
+        "type": "quiz",
+        "objectId": "BiX8stDRRs"
+    },
+    {
+        "answer": {
+            "explanation": "POEM est un acronyme de langue anglaise utilisé pour désigner les différents types d’expositions média dont peut bénéficier une marque auprès des consommateurs.",
+            "mediaType": 1,
+            "rightAnswer": "Media"
+        },
+        "answerIsPortrait": false,
+        "answerMedia": {
+            "__type": "File",
+            "name": "tfss-5f31f393-4043-48e8-8e49-359f2f26553e-answer.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-5f31f393-4043-48e8-8e49-359f2f26553e-answer.jpg"
+        },
+        "darkBackground": true,
+        "point": 1,
+        "question": {
+            "answerFormat": "2",
+            "answers": [
+                "Marketing",
+                "Media",
+                "Mail",
+                "Method"
+            ],
+            "background": 0,
+            "mediaType": 1,
+            "question": "L'acronyme POEM signifie Paid Owned and Earned ..."
+        },
+        "questionIsPortrait": true,
+        "questionMedia": {
+            "__type": "File",
+            "name": "tfss-c11fbcba-85a8-42ff-873a-36f1b6f911ce-question.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-c11fbcba-85a8-42ff-873a-36f1b6f911ce-question.jpg"
+        },
+        "type": "quiz",
+        "objectId": "pFVZt09m1V"
+    },
+    {
+        "answer": {
+            "explanation": "Le Datamining ou encore fouille de données consiste à analyser le contenu d'une base de données, pouvant contenir plusieurs milliers voire millions de données, par l'utilisation de méthodes statistiques.",
+            "mediaType": 1,
+            "rightAnswer": "Il explore et analyse les données"
+        },
+        "answerIsPortrait": false,
+        "answerMedia": {
+            "__type": "File",
+            "name": "tfss-a17205aa-cb71-4dcf-b005-8cb5c8ad67c5-answer.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-a17205aa-cb71-4dcf-b005-8cb5c8ad67c5-answer.jpg"
+        },
+        "darkBackground": false,
+        "point": 1,
+        "question": {
+            "answerFormat": "2",
+            "answers": [
+                "Il explore et analyse les données",
+                "Il crée des services d’hébergement de données",
+                "Il établit une représentation graphique des données",
+                "Il vend de la donnée"
+            ],
+            "background": 0,
+            "mediaType": 1,
+            "question": "Quel est le métier d'un Dataminer ?"
+        },
+        "questionIsPortrait": false,
+        "questionMedia": {
+            "__type": "File",
+            "name": "tfss-7e2ffd25-1956-4fad-93c9-0a4e1aff9632-question.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-7e2ffd25-1956-4fad-93c9-0a4e1aff9632-question.jpg"
+        },
+        "type": "quiz",
+        "objectId": "BVpU0B145k"
+    },
+    {
+        "answer": {
+            "explanation": "Le showrooming désigne la pratique selon laquelle un consommateur réalise une démarche de découverte d’un produit sur un lieu de vente physique avant de le commander en ligne immédiatement ou plus tard auprès d’un autre marchand sur Internet.",
+            "mediaType": 1,
+            "rightAnswer": "Acheter en ligne un article vu en boutique"
+        },
+        "answerIsPortrait": false,
+        "answerMedia": {
+            "__type": "File",
+            "name": "tfss-2ccf6446-7c9d-4690-9d87-7c2d8530b745-answer.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-2ccf6446-7c9d-4690-9d87-7c2d8530b745-answer.jpg"
+        },
+        "darkBackground": true,
+        "point": 1,
+        "question": {
+            "answerFormat": "1",
+            "answers": [
+                "Acheter en ligne un article vu en boutique",
+                "Acheter dans un Showroom digital",
+                "Essayer virtuellement ses vêtement grâce sa webcam"
+            ],
+            "background": 0,
+            "mediaType": 1,
+            "question": "Le Showrooming est une pratique qui consiste à :"
+        },
+        "questionIsPortrait": false,
+        "questionMedia": {
+            "__type": "File",
+            "name": "tfss-c77dfc89-217d-4596-b27d-22104789663a-question.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-c77dfc89-217d-4596-b27d-22104789663a-question.jpg"
+        },
+        "type": "quiz",
+        "objectId": "4DxZhQxy9j"
+    },
+    {
+        "answer": {
+            "explanation": "Le reciblage publicitaire ou retargeting (ou encore remarketing) est une technique marketing dont l’objectif est d’inciter un internaute qui a manifesté un intérêt pour un premier message publicitaire à accomplir une action donnée.",
+            "mediaType": 1,
+            "rightAnswer": "Un process de reciblage publicitaire"
+        },
+        "answerIsPortrait": false,
+        "answerMedia": {
+            "__type": "File",
+            "name": "tfss-6b253562-08e1-4e95-92c3-10ec2de9e589-answer.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-6b253562-08e1-4e95-92c3-10ec2de9e589-answer.jpg"
+        },
+        "darkBackground": true,
+        "point": 1,
+        "question": {
+            "answerFormat": "2",
+            "answers": [
+                "Une méthode de définition de cible",
+                "Un process de reciblage publicitaire",
+                "Un outil de ciblage satellite",
+                "Un protocole de défense de l’armée américaine"
+            ],
+            "background": 0,
+            "mediaType": 1,
+            "question": "Qu'est ce que le retargeting?"
+        },
+        "questionIsPortrait": false,
+        "questionMedia": {
+            "__type": "File",
+            "name": "tfss-0e95c123-10d9-47c5-a825-e1d0fd9605ec-question.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-0e95c123-10d9-47c5-a825-e1d0fd9605ec-question.jpg"
+        },
+        "type": "quiz",
+        "objectId": "1oC2X8kN00"
+    },
+    {
+        "answer": {
+            "explanation": "Les imprimantes 3D n’en finissent plus de nous étonner! Après la possibilité d’imprimer de la nourriture, des prothèses, des armes ou même des maisons, un nouveau cap a été franchi, celui du bioprinting : Autrement dit, la création de tissus humains en 3D.",
+            "mediaType": 2,
+            "rightAnswer": "Les 3",
+            "videoUrl": "https://www.youtube.com/embed/4EW-1WQmuxk"
+        },
+        "answerIsPortrait": false,
+        "darkBackground": true,
+        "point": 1,
+        "question": {
+            "answerFormat": "2",
+            "answers": [
+                "Des tissus humains",
+                "Des maisons",
+                "Des armes",
+                "Les 3"
+            ],
+            "background": 0,
+            "mediaType": 1,
+            "question": "Qu'est-il possible d'imprimer avec une imprimante 3D  ?"
+        },
+        "questionIsPortrait": false,
+        "questionMedia": {
+            "__type": "File",
+            "name": "tfss-5558029e-0ac2-4755-8e1e-c2304e3ea727-question.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-5558029e-0ac2-4755-8e1e-c2304e3ea727-question.jpg"
+        },
+        "type": "quiz",
+        "objectId": "rYlfB487GH"
+    },
+    {
+        "answer": {
+            "explanation": "Peut-être avez-vous participé aux 2 milliards de visionnages en 2 ans de cette vidéo dans laquelle en costume 3 pièces Psy parade avec des filles et des voitures de luxe. Une parodie de la vie des riches oisifs d'un quartier chic de Séoul.",
+            "mediaType": 1,
+            "rightAnswer": "Gangnam Style - Psy"
+        },
+        "answerIsPortrait": false,
+        "answerMedia": {
+            "__type": "File",
+            "name": "tfss-a2e4088b-33af-4cc0-9c62-d010df9861d4-answer.jpeg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-a2e4088b-33af-4cc0-9c62-d010df9861d4-answer.jpeg"
+        },
+        "darkBackground": true,
+        "point": 1,
+        "question": {
+            "answerFormat": "1",
+            "answers": [
+                "Félix Baumgartner -  Red Bull Stratos",
+                "Gangnam Style - Psy",
+                "Justin Bieber - Baby"
+            ],
+            "background": 0,
+            "mediaType": 1,
+            "question": "La vidéo la plus vue sur Youtube est :"
+        },
+        "questionIsPortrait": false,
+        "questionMedia": {
+            "__type": "File",
+            "name": "tfss-41efee29-63b4-44a0-b3a0-fffadc441695-question.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-41efee29-63b4-44a0-b3a0-fffadc441695-question.jpg"
+        },
+        "type": "quiz",
+        "objectId": "X7A8glQVL3"
+    },
+    {
+        "answer": {
+            "explanation": "Le Hashtag est un mot-clé précédé du symbole # que les internautes utilisent dans leurs publications sur les réseaux sociaux. Ils permettent aux autres utilisateurs d’accéder au contenu qui contient le dit mot-clé .",
+            "mediaType": 1,
+            "rightAnswer": "Un filtre de référencement sur les réseaux sociaux"
+        },
+        "answerIsPortrait": false,
+        "answerMedia": {
+            "__type": "File",
+            "name": "tfss-4c940d29-1871-40a9-a26d-d95713eeba83-answer.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-4c940d29-1871-40a9-a26d-d95713eeba83-answer.jpg"
+        },
+        "darkBackground": true,
+        "point": 1,
+        "question": {
+            "answerFormat": "1",
+            "answers": [
+                "Un avatar personnalisé",
+                "Un virus informatique",
+                "Un filtre de référencement sur les réseaux sociaux"
+            ],
+            "background": 0,
+            "mediaType": 1,
+            "question": "Qu’est ce qu’un #HASHTAG ?"
+        },
+        "questionIsPortrait": false,
+        "questionMedia": {
+            "__type": "File",
+            "name": "tfss-372b7694-45e6-4931-9ba8-6e4d1714d6ef-question.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-372b7694-45e6-4931-9ba8-6e4d1714d6ef-question.jpg"
+        },
+        "type": "quiz",
+        "objectId": "0TCS8d84L1"
+    },
+    {
+        "answer": {
+            "explanation": "Un mème, c’est une idée qui se propage en étant imitée et/ou détournée. Pour être compris, le mème a besoin de son contexte et de la culture qui l’accompagne, c’est pourquoi il ne se diffuse généralement que de personne à personne, qu’entre amis.",
+            "mediaType": 1,
+            "rightAnswer": "Une phénomène décliné en masse sur internet"
+        },
+        "answerIsPortrait": false,
+        "answerMedia": {
+            "__type": "File",
+            "name": "tfss-171ddd31-fe82-4db2-9538-0d4d428bbe7a-answer.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-171ddd31-fe82-4db2-9538-0d4d428bbe7a-answer.jpg"
+        },
+        "darkBackground": false,
+        "point": 1,
+        "question": {
+            "answerFormat": "2",
+            "answers": [
+                "Un type de tutoriel de cuisine",
+                "Une phénomène décliné en masse sur internet",
+                "Une personnalité issue du web",
+                "Une bande dessinée en ligne"
+            ],
+            "background": 0,
+            "mediaType": 1,
+            "question": "Qu'est-ce qu'un mème ?"
+        },
+        "questionIsPortrait": false,
+        "questionMedia": {
+            "__type": "File",
+            "name": "tfss-df7d3147-1e43-41da-9f34-11cc75adb443-question.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-df7d3147-1e43-41da-9f34-11cc75adb443-question.jpg"
+        },
+        "type": "quiz",
+        "objectId": "e5JD9bMars"
+    },
+    {
+        "answer": {
+            "explanation": "Le terme hackathon est la contraction de « hack » et de marathon. C'est donc une compétition de courte durée, mais extrêmement intense, au cours de laquelle des hackers vont tenter de concrétiser une idée et la transformer en une application opérationnelle",
+            "mediaType": 1,
+            "rightAnswer": "Un évènement de programmation informatique"
+        },
+        "answerIsPortrait": false,
+        "answerMedia": {
+            "__type": "File",
+            "name": "tfss-b866358c-413b-469a-9e3e-8b820317dfb1-answer.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-b866358c-413b-469a-9e3e-8b820317dfb1-answer.jpg"
+        },
+        "darkBackground": true,
+        "point": 1,
+        "question": {
+            "answerFormat": "1",
+            "answers": [
+                "Un événement organisé par les anonymous",
+                "Une cérémonie de remise des prix pour les développeurs",
+                "Un évènement de programmation informatique"
+            ],
+            "background": 0,
+            "mediaType": 1,
+            "question": "Qu'est-ce qu'un Hackathon ?"
+        },
+        "questionIsPortrait": false,
+        "questionMedia": {
+            "__type": "File",
+            "name": "tfss-18ee3637-a540-44c7-952d-367a5a4459e6-question.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-18ee3637-a540-44c7-952d-367a5a4459e6-question.jpg"
+        },
+        "type": "quiz",
+        "objectId": "aCaz7qCBHX"
+    },
+    {
+        "answer": {
+            "explanation": "Le CES, ou Consumer Electronics Show, est un salon consacré au monde de la haute technologie et aux différentes innovations dans le domaine. A Las Vegas, en début d'année, constructeurs et férus de nouvelles technologies se côtoient une semaine durant.",
+            "mediaType": 1,
+            "rightAnswer": "Le salon mondial de l’innovation"
+        },
+        "answerIsPortrait": false,
+        "answerMedia": {
+            "__type": "File",
+            "name": "tfss-92c7d4e3-7126-4839-8721-e4ea23944bcd-answer.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-92c7d4e3-7126-4839-8721-e4ea23944bcd-answer.jpg"
+        },
+        "darkBackground": true,
+        "point": 1,
+        "question": {
+            "answerFormat": "2",
+            "answers": [
+                "Un protocle de codage informatique",
+                "La commission international de régulation des données",
+                "Le salon mondial de l’innovation",
+                "Le salon mondial du mobile"
+            ],
+            "background": 0,
+            "mediaType": 1,
+            "question": "Qu'est ce que le CES ?"
+        },
+        "questionIsPortrait": false,
+        "questionMedia": {
+            "__type": "File",
+            "name": "tfss-072b026d-1e92-4b0f-b840-180c23a777db-question.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-072b026d-1e92-4b0f-b840-180c23a777db-question.jpg"
+        },
+        "type": "quiz",
+        "objectId": "mtktVOsIXq"
+    },
+    {
+        "answer": {
+            "explanation": "Le cloud computing, c'est accéder à des ressources informatiques qui sont quelque part, à travers internet. On peut y avoir accès gratuitement, comme c'est le cas avec le webmail ou sur abonnement, avec un niveau de service garanti.",
+            "mediaType": 2,
+            "rightAnswer": "Une technologie de stockage à distance",
+            "videoUrl": "https://www.youtube.com/embed/Krl5KA8M7Fk"
+        },
+        "answerIsPortrait": false,
+        "darkBackground": false,
+        "point": 1,
+        "question": {
+            "answerFormat": "1",
+            "answers": [
+                "Un objet connecté météo",
+                "Une technique marketing de géolocalisation",
+                "Une technologie de stockage à distance"
+            ],
+            "background": 0,
+            "mediaType": 1,
+            "question": "Qu'est ce que le Cloud Computing ?"
+        },
+        "questionIsPortrait": false,
+        "questionMedia": {
+            "__type": "File",
+            "name": "tfss-894476cd-cdf3-409a-9aa2-bbb339fe4d4a-question.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-894476cd-cdf3-409a-9aa2-bbb339fe4d4a-question.jpg"
+        },
+        "type": "quiz",
+        "objectId": "u45j7solod"
+    },
+    {
+        "answer": {
+            "explanation": "Le RTB est le protocole qui permet de mener des enchères pour l'achat d'espace publicitaire de manière automatisée et en temps réel. Le mécanisme est le même que pour la bourse sur le marché financier : mettre à la disposition des offres en temps réel.",
+            "mediaType": 1,
+            "rightAnswer": "Real Time Bidding"
+        },
+        "answerIsPortrait": false,
+        "answerMedia": {
+            "__type": "File",
+            "name": "tfss-9c536055-1c05-4731-843b-bb915833fddf-answer.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-9c536055-1c05-4731-843b-bb915833fddf-answer.jpg"
+        },
+        "darkBackground": false,
+        "point": 1,
+        "question": {
+            "answerFormat": "2",
+            "answers": [
+                "Real Time Bonding",
+                "Real Time Bidding",
+                "Real Time Buying",
+                "Real Time Branding"
+            ],
+            "background": 0,
+            "mediaType": 1,
+            "question": "Que siginifie l'acronyme RTB en programmatique ?"
+        },
+        "questionIsPortrait": false,
+        "questionMedia": {
+            "__type": "File",
+            "name": "tfss-c3df16c3-9004-4f70-bcb4-a58a5a108d1d-question.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-c3df16c3-9004-4f70-bcb4-a58a5a108d1d-question.jpg"
+        },
+        "type": "quiz",
+        "objectId": "dsuiR4M4RI"
+    },
+    {
+        "answer": {
+            "explanation": "House of Cards a été la première série créée grâce au big data. Netflix savait que de nombreux utilisateurs de son service appréciaient Kevin Spacey, David Fincher et les séries politiques. Netflix savait avant les téléspectateurs ce qu’ils voulaient.",
+            "mediaType": 1,
+            "rightAnswer": "Netflix"
+        },
+        "answerIsPortrait": false,
+        "answerMedia": {
+            "__type": "File",
+            "name": "tfss-08a1a938-f8cc-4f4c-89b2-733b4e6b698d-answer.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-08a1a938-f8cc-4f4c-89b2-733b4e6b698d-answer.jpg"
+        },
+        "darkBackground": true,
+        "point": 1,
+        "question": {
+            "answerFormat": "2",
+            "answers": [
+                "Canal Play",
+                "Popcorn Time",
+                "Itunes",
+                "Netflix"
+            ],
+            "background": "0",
+            "mediaType": 1,
+            "question": "Quelle est la première plateforme web à avoir produit sa propre série TV ?"
+        },
+        "questionIsPortrait": false,
+        "questionMedia": {
+            "__type": "File",
+            "name": "tfss-0fa3ea10-a444-4f69-b0d5-615e19cca390-question.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-0fa3ea10-a444-4f69-b0d5-615e19cca390-question.jpg"
+        },
+        "type": "quiz",
+        "objectId": "Wyf0op7wx2"
+    },
+    {
+        "answer": {
+            "explanation": "En février 2014, le géant californien s'est offert WhatsApp, l'application mobile aux 450 millions d'utilisateurs. Une des plus gros rachats du secteur. Une belle aubaine, surtout, pour les 55 salariés de la start-up californienne.",
+            "mediaType": 1,
+            "rightAnswer": "WhatsApp"
+        },
+        "answerIsPortrait": false,
+        "answerMedia": {
+            "__type": "File",
+            "name": "tfss-f1338c2f-c447-48ea-a21f-a383b51af32e-answer.jpeg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-f1338c2f-c447-48ea-a21f-a383b51af32e-answer.jpeg"
+        },
+        "darkBackground": true,
+        "point": 1,
+        "question": {
+            "answerFormat": "2",
+            "answers": [
+                "Snapchat",
+                "WhatsApp",
+                "MSN",
+                "Wechat"
+            ],
+            "background": 0,
+            "mediaType": 1,
+            "question": "L'application de messagerie mobile rachetée 19 Milliards par Facebook est :"
+        },
+        "questionIsPortrait": false,
+        "questionMedia": {
+            "__type": "File",
+            "name": "tfss-2aba2507-4a13-428b-8650-829bdb74e807-question.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-2aba2507-4a13-428b-8650-829bdb74e807-question.jpg"
+        },
+        "type": "quiz",
+        "objectId": "JEpxr7mBP4"
+    },
+    {
+        "answer": {
+            "explanation": "Brique essentielle du drive to store, le Click & Collect séduit de plus en plus : 1 acheteur en ligne sur 2 a déjà retiré une commande en magasin. De plus, 26% des utilisateurs du Click & Collect ont achetés d’autres articles en plus dans le magasin.",
+            "mediaType": 1,
+            "rightAnswer": "Acheter en ligne et retirer son produit en magasin"
+        },
+        "answerIsPortrait": false,
+        "answerMedia": {
+            "__type": "File",
+            "name": "tfss-103bab26-e3d9-41e2-a39d-ea4e4ddd59ef-answer.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-103bab26-e3d9-41e2-a39d-ea4e4ddd59ef-answer.jpg"
+        },
+        "darkBackground": true,
+        "point": 1,
+        "question": {
+            "answerFormat": "1",
+            "answers": [
+                "Une méthode de donation collaborative pour les associations",
+                "Un jeu de loterie en ligne",
+                "Acheter en ligne et retirer son produit en magasin"
+            ],
+            "background": "0",
+            "mediaType": 1,
+            "question": "Le Click & Collect c’est :"
+        },
+        "questionIsPortrait": false,
+        "questionMedia": {
+            "__type": "File",
+            "name": "tfss-6c2a9ba3-4dc0-44d8-9712-e733e5e9a372-question.png",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-6c2a9ba3-4dc0-44d8-9712-e733e5e9a372-question.png"
+        },
+        "type": "quiz",
+        "objectId": "hSKB136Ji9"
+    },
+    {
+        "answer": {
+            "explanation": "78% des acheteurs s’informent en ligne avant d’acheter en magasin. ROPO :  Research Online, Purchase Offline est un terme utilisé pour parler des actes d'achat qui s'initient sur internet et se finalisent dans un magasin physique.",
+            "mediaType": 1,
+            "rightAnswer": "Research Online Purchase Offline"
+        },
+        "answerIsPortrait": false,
+        "answerMedia": {
+            "__type": "File",
+            "name": "tfss-d8ab93c0-5c92-4e33-8348-6eaef19774a8-answer.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-d8ab93c0-5c92-4e33-8348-6eaef19774a8-answer.jpg"
+        },
+        "darkBackground": false,
+        "point": 1,
+        "question": {
+            "answerFormat": "2",
+            "answers": [
+                "Research Online Purchase Online",
+                "Research Offline Purchase Online",
+                "Research Offline Purchase Online",
+                "Research Online Purchase Offline"
+            ],
+            "background": 0,
+            "mediaType": 1,
+            "question": "Que signifie l’acronyme ROPO ?"
+        },
+        "questionIsPortrait": false,
+        "questionMedia": {
+            "__type": "File",
+            "name": "tfss-ac345e01-2c63-4850-99a5-4755e5165913-question.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-ac345e01-2c63-4850-99a5-4755e5165913-question.jpg"
+        },
+        "type": "quiz",
+        "objectId": "YjkLGJPKKQ"
+    },
+    {
+        "answer": {
+            "explanation": "L’edgerank est l'algorithme permettant à Facebook de définir pour chaque utilisateur quelles publications méritent d’être affichée sur son fil d’actualité en fonction de son affinité avec un ami ou une page et quelles autres doivent être cachées.",
+            "mediaType": 1,
+            "rightAnswer": "l’algorithme qui détermine la visibilité de vos posts"
+        },
+        "answerIsPortrait": false,
+        "answerMedia": {
+            "__type": "File",
+            "name": "tfss-142326c5-33fe-4df5-9421-6c06d8f00ad9-answer.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-142326c5-33fe-4df5-9421-6c06d8f00ad9-answer.jpg"
+        },
+        "darkBackground": true,
+        "point": 1,
+        "question": {
+            "answerFormat": "1",
+            "answers": [
+                "l’algorithme qui suggère de nouvelles amitiées",
+                "l’algorithme qui prédit l'engagement de vos posts",
+                "l’algorithme qui détermine la visibilité de vos posts"
+            ],
+            "background": 0,
+            "mediaType": 1,
+            "question": "L'EdgeRank de Facebook c'est :"
+        },
+        "questionIsPortrait": false,
+        "questionMedia": {
+            "__type": "File",
+            "name": "tfss-a13c1cde-6424-4c0a-be7a-ecb5e30f51ac-question.jpeg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-a13c1cde-6424-4c0a-be7a-ecb5e30f51ac-question.jpeg"
+        },
+        "type": "quiz",
+        "objectId": "iEeW8LHh9N"
+    },
+    {
+        "answer": {
+            "explanation": "Vine est une application qui regroupe une série de vidéos courtes de 6 secondes maximum. Leur brièveté s’inscrit dans l’esprit de Twitter qui vise à délivrer un message bref. Avec plus de 3 millions d'abonnés, Zach King est la star du réseau social.",
+            "mediaType": 1,
+            "rightAnswer": "Vine"
+        },
+        "answerIsPortrait": false,
+        "answerMedia": {
+            "__type": "File",
+            "name": "tfss-7de7c4be-2d20-42e7-9ec3-8e0b36760766-answer.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-7de7c4be-2d20-42e7-9ec3-8e0b36760766-answer.jpg"
+        },
+        "darkBackground": true,
+        "point": 1,
+        "question": {
+            "answerFormat": "2",
+            "answers": [
+                "Snapchat",
+                "Instagram",
+                "Vine",
+                "Tinder"
+            ],
+            "background": "1",
+            "mediaType": 2,
+            "question": "Sur quel réseau social s'est fait connaitre Zach King avec ses vidéo de 6s ?",
+            "videoUrl": "https://www.youtube.com/embed/vvvToXZfrZM"
+        },
+        "questionIsPortrait": false,
+        "type": "quiz",
+        "objectId": "ZOFlKpfijz"
+    },
+    {
+        "answer": {
+            "explanation": "Les Gafa génèrent l’équivalent du PIB du Danemark, la 35e puissance économique dans le monde. Google, Apple, Facebook et Amazon totalisent 316 milliards de dollars de chiffre d’affaires et emploient ensemble 252 000 personnes.",
+            "mediaType": 1,
+            "rightAnswer": "Google Apple Facebook Amazon"
+        },
+        "answerIsPortrait": false,
+        "answerMedia": {
+            "__type": "File",
+            "name": "tfss-b3b7b3d5-48b5-424b-b74a-6cb29f74adfc-answer.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-b3b7b3d5-48b5-424b-b74a-6cb29f74adfc-answer.jpg"
+        },
+        "darkBackground": false,
+        "point": 1,
+        "question": {
+            "answerFormat": "2",
+            "answers": [
+                "Gopro Amazon Firefox Android",
+                "Google Android Free Amazon",
+                "Google Apple Facebook Amazon",
+                "Gopro Apple Facebook Android"
+            ],
+            "background": "0",
+            "mediaType": 1,
+            "question": "Que signifie l'acronyme GAFA ?"
+        },
+        "questionIsPortrait": false,
+        "questionMedia": {
+            "__type": "File",
+            "name": "tfss-fb7c7c2b-d635-4ba0-986e-2ccaf9715ce2-question.png",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-fb7c7c2b-d635-4ba0-986e-2ccaf9715ce2-question.png"
+        },
+        "type": "quiz",
+        "objectId": "eGcs0CqdNk"
+    },
+    {
+        "answer": {
+            "explanation": "L'expression \"Pure Player\" est utilisée pour désigner une entreprise dont l'activité est  exclusivement menée sur Internet. Il n’existe aucun magasin, tout achat et interaction se fait ainsi que par le biais d’internet.",
+            "mediaType": 1,
+            "rightAnswer": "Un Pure Player"
+        },
+        "answerIsPortrait": false,
+        "answerMedia": {
+            "__type": "File",
+            "name": "tfss-4512ed0d-ed79-4a9f-a798-dad1945b166b-answer.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-4512ed0d-ed79-4a9f-a798-dad1945b166b-answer.jpg"
+        },
+        "darkBackground": true,
+        "point": 1,
+        "question": {
+            "answerFormat": "2",
+            "answers": [
+                "Une E-société",
+                "Un Gafa",
+                "Un Brick & Mortar",
+                "Un Pure Player"
+            ],
+            "background": "0",
+            "mediaType": 1,
+            "question": "Une société dont l'activité est exclusivement menée sur Internet est :"
+        },
+        "questionIsPortrait": false,
+        "questionMedia": {
+            "__type": "File",
+            "name": "tfss-53d89033-4653-435a-8ba7-31fdab879857-question.png",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-53d89033-4653-435a-8ba7-31fdab879857-question.png"
+        },
+        "type": "quiz",
+        "objectId": "gueBjvOwie"
+    },
+    {
+        "answer": {
+            "explanation": "La DataViz c'est l'ensemble des techniques de représentation graphique permettant de traduire un ensemble de données brutes en information décisive. Elle permet de communiquer simplement une information complexe pour améliorer la prise de décision.",
+            "mediaType": 1,
+            "rightAnswer": "lisibile pour faciliter la prise de décision"
+        },
+        "answerIsPortrait": false,
+        "answerMedia": {
+            "__type": "File",
+            "name": "tfss-0de71098-4d86-4109-ac09-038edaf77095-answer.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-0de71098-4d86-4109-ac09-038edaf77095-answer.jpg"
+        },
+        "darkBackground": true,
+        "point": 2,
+        "question": {
+            "answerFormat": "1",
+            "answers": [
+                "accessible pour démocratiser son usage",
+                "lisibile pour faciliter la prise de décision",
+                "plus fiable pour améliorer la prise de décision"
+            ],
+            "background": 0,
+            "mediaType": 1,
+            "question": "La Dataviz c'est rendre l'information ..."
+        },
+        "questionIsPortrait": false,
+        "questionMedia": {
+            "__type": "File",
+            "name": "tfss-604b8491-138e-4e33-bda6-6df2ce1aaf47-question.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-604b8491-138e-4e33-bda6-6df2ce1aaf47-question.jpg"
+        },
+        "type": "quiz",
+        "objectId": "hBZCx8lvxh"
+    },
+    {
+        "answer": {
+            "explanation": "L'entrepreneur américain a fondé PayPal, Tesla et veut atteindre Mars avec SpaceX. Comme le créateur d'Apple, il révolutionne tout ce qu'il touche et tout ce qu'il touche se transforme en or.",
+            "mediaType": 1,
+            "rightAnswer": "Les trois"
+        },
+        "answerIsPortrait": false,
+        "answerMedia": {
+            "__type": "File",
+            "name": "tfss-bd116e82-e8c4-44cf-9100-8e595292b7ba-answer.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-bd116e82-e8c4-44cf-9100-8e595292b7ba-answer.jpg"
+        },
+        "darkBackground": true,
+        "point": 1,
+        "question": {
+            "answerFormat": "2",
+            "answers": [
+                "Le co-fondateur de Paypal",
+                "Le fondateur de SpaceX",
+                "Le Dirigeant de Tesla",
+                "Les trois"
+            ],
+            "background": "1",
+            "mediaType": 1,
+            "question": "Qui est Elon Musk ?"
+        },
+        "questionIsPortrait": false,
+        "questionMedia": {
+            "__type": "File",
+            "name": "tfss-1355c8f0-8149-46c6-b538-36293aef530d-question.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-1355c8f0-8149-46c6-b538-36293aef530d-question.jpg"
+        },
+        "type": "quiz",
+        "objectId": "H7ktn8eP4t"
+    },
+    {
+        "answer": {
+            "explanation": "Periscope est la dernière application de Twitter. Elle permet de diffuser une vidéo en direct. Votre iPhone filme ce que vous voyez et le flux peut être visualisé par n’importe qui. C’est comme la télévision, sauf que c'est vous qui êtes derrière la caméra",
+            "mediaType": 1,
+            "rightAnswer": "Une application de live-streaming mobile"
+        },
+        "answerIsPortrait": false,
+        "answerMedia": {
+            "__type": "File",
+            "name": "tfss-063e3903-f31d-4112-9f09-28f11a8c8c6d-answer.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-063e3903-f31d-4112-9f09-28f11a8c8c6d-answer.jpg"
+        },
+        "darkBackground": true,
+        "point": 1,
+        "question": {
+            "answerFormat": "1",
+            "answers": [
+                "Une application de live-streaming mobile",
+                "Un objet connecté pour la médecine",
+                "Un réseau social dédié à l'astrologie"
+            ],
+            "background": 0,
+            "mediaType": 1,
+            "question": "Qu'est-ce que Périscope ?"
+        },
+        "questionIsPortrait": false,
+        "questionMedia": {
+            "__type": "File",
+            "name": "tfss-4cb97de8-6977-4f32-9937-fb0b7276a90f-question.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-4cb97de8-6977-4f32-9937-fb0b7276a90f-question.jpg"
+        },
+        "type": "quiz",
+        "objectId": "3m1KdiBSZI"
+    },
+    {
+        "answer": {
+            "explanation": "En entrant dans un grand magasin, votre téléphone portable sonne. C’est un message de bienvenue. Vous passez ensuite dans un rayon, vous vous attardez devant un produit. Nouveau message: un bon de réduction. Il n’en fallait pas plus pour vous convaincre !",
+            "mediaType": 2,
+            "rightAnswer": "Une balise de géolocalisation Bluetooth",
+            "videoUrl": "https://www.youtube.com/embed/M3jA4G_L3-Q"
+        },
+        "answerIsPortrait": false,
+        "darkBackground": true,
+        "point": 1,
+        "question": {
+            "answerFormat": "2",
+            "answers": [
+                "Une balise de géolocalisation Bluetooth",
+                "Une station de chargement sans fil",
+                "Un objet connecté dédié à la sécurité",
+                "Un boitier anti-ondes"
+            ],
+            "background": 0,
+            "mediaType": 1,
+            "question": "Qu'est ce qu'un Beacon ?"
+        },
+        "questionIsPortrait": false,
+        "questionMedia": {
+            "__type": "File",
+            "name": "tfss-6b7e47b6-9db4-4d42-bc77-cc9918635623-question.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-6b7e47b6-9db4-4d42-bc77-cc9918635623-question.jpg"
+        },
+        "type": "quiz",
+        "objectId": "7Ah78qPBqq"
+    },
+    {
+        "answer": {
+            "explanation": "En entrant dans un grand magasin, votre téléphone portable sonne. C’est un message de bienvenue. Vous passez ensuite dans un rayon, vous vous attardez devant un produit. Nouveau message: un bon de réduction. Il n’en fallait pas plus pour vous convaincre !",
+            "mediaType": 1,
+            "rightAnswer": "Un capteur Bluetooth qui communique avec les smartphones"
+        },
+        "answerIsPortrait": false,
+        "answerMedia": {
+            "__type": "File",
+            "name": "tfss-102ecdd5-8d97-47ad-9bc3-86693e563748-answer.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-102ecdd5-8d97-47ad-9bc3-86693e563748-answer.jpg"
+        },
+        "darkBackground": false,
+        "point": 1,
+        "question": {
+            "answerFormat": "2",
+            "answers": [
+                "Un capteur Bluetooth qui communique avec les smartphones",
+                "Une station de chargement sans fil",
+                "Un objet connecté dédié à la sécurité",
+                "Une station de rechargement sans fil"
+            ],
+            "background": 0,
+            "mediaType": 1,
+            "question": "Qu'est ce qu'un Beacon ?"
+        },
+        "questionIsPortrait": false,
+        "questionMedia": {
+            "__type": "File",
+            "name": "tfss-6b7e47b6-9db4-4d42-bc77-cc9918635623-question.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-6b7e47b6-9db4-4d42-bc77-cc9918635623-question.jpg"
+        },
+        "type": "quiz",
+        "objectId": "FfLteXF6NZ"
+    },
+    {
+        "answer": {
+            "explanation": "Un Tweet = 140 caractères maximum, soit 20 caractères de moins que les SMS (160 caractères). Le tout est de développer votre esprit de synthèse. Il faut parvenir à articuler une pensée de façon très courte.",
+            "mediaType": 1,
+            "rightAnswer": "140"
+        },
+        "answerIsPortrait": false,
+        "answerMedia": {
+            "__type": "File",
+            "name": "tfss-027cbd09-06a7-449d-8b8f-7d642c22b514-answer.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-027cbd09-06a7-449d-8b8f-7d642c22b514-answer.jpg"
+        },
+        "darkBackground": false,
+        "point": 1,
+        "question": {
+            "answerFormat": "2",
+            "answers": [
+                "40",
+                "120",
+                "140",
+                "220"
+            ],
+            "background": "0",
+            "mediaType": 1,
+            "question": "Sur Twitter, combien de caractères peut contenir un \"tweet\" ??"
+        },
+        "questionIsPortrait": false,
+        "questionMedia": {
+            "__type": "File",
+            "name": "tfss-86e3c37a-dbb1-4c4a-94b7-3023596f95cb-question.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-86e3c37a-dbb1-4c4a-94b7-3023596f95cb-question.jpg"
+        },
+        "type": "quiz",
+        "objectId": "eElW4IIq05"
+    },
+    {
+        "answer": {
+            "explanation": "En entrant dans un grand magasin, votre téléphone portable sonne. C’est un message de bienvenue. Vous passez ensuite dans un rayon, vous vous attardez devant un produit. Nouveau message: un bon de réduction. Il n’en fallait pas plus pour vous convaincre !",
+            "mediaType": 1,
+            "rightAnswer": "Un capteur Bluetooth qui communique avec les smartphones"
+        },
+        "answerIsPortrait": false,
+        "answerMedia": {
+            "__type": "File",
+            "name": "tfss-102ecdd5-8d97-47ad-9bc3-86693e563748-answer.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-102ecdd5-8d97-47ad-9bc3-86693e563748-answer.jpg"
+        },
+        "darkBackground": false,
+        "point": 2,
+        "question": {
+            "answerFormat": "2",
+            "answers": [
+                "Un capteur Bluetooth qui communique avec les smartphones",
+                "Un système de sécurité connecté",
+                "Un boitier anti ondes",
+                "Une station de rechargement sans fil"
+            ],
+            "background": 0,
+            "mediaType": 1,
+            "question": "Qu'est ce qu'un Beacon ?"
+        },
+        "questionIsPortrait": false,
+        "questionMedia": {
+            "__type": "File",
+            "name": "tfss-6b7e47b6-9db4-4d42-bc77-cc9918635623-question.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-6b7e47b6-9db4-4d42-bc77-cc9918635623-question.jpg"
+        },
+        "type": "quiz",
+        "objectId": "FvTwky6HED"
+    },
+    {
+        "answer": {
+            "explanation": "En entrant dans un grand magasin, votre téléphone portable sonne. C’est un message de bienvenue. Vous passez ensuite dans un rayon, vous vous attardez devant un produit. Nouveau message: un bon de réduction. Il n’en fallait pas plus pour vous convaincre !",
+            "mediaType": 1,
+            "rightAnswer": "Un capteur Bluetooth qui communique avec les smartphones"
+        },
+        "answerIsPortrait": false,
+        "answerMedia": {
+            "__type": "File",
+            "name": "tfss-102ecdd5-8d97-47ad-9bc3-86693e563748-answer.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-102ecdd5-8d97-47ad-9bc3-86693e563748-answer.jpg"
+        },
+        "darkBackground": true,
+        "point": 1,
+        "question": {
+            "answerFormat": "2",
+            "answers": [
+                "Un capteur Bluetooth qui communique avec les smartphones",
+                "Un système de sécurité connecté",
+                "Un boitier anti-onde",
+                "Une station de rechargement sans fil"
+            ],
+            "background": 0,
+            "mediaType": 1,
+            "question": "Qu'est ce qu'un Beacon ?"
+        },
+        "questionIsPortrait": false,
+        "questionMedia": {
+            "__type": "File",
+            "name": "tfss-6b7e47b6-9db4-4d42-bc77-cc9918635623-question.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-6b7e47b6-9db4-4d42-bc77-cc9918635623-question.jpg"
+        },
+        "type": "quiz",
+        "objectId": "V0DgXGO7Jy"
+    },
+    {
+        "answer": {
+            "explanation": "En entrant dans un grand magasin, votre téléphone portable sonne. C’est un message de bienvenue. Vous passez ensuite dans un rayon, vous vous attardez devant un produit. Nouveau message: un bon de réduction. Il n’en fallait pas plus pour vous convaincre!",
+            "mediaType": 1,
+            "rightAnswer": "Un capteur Bluetooth qui communique avec les smartphones"
+        },
+        "answerIsPortrait": false,
+        "answerMedia": {
+            "__type": "File",
+            "name": "tfss-102ecdd5-8d97-47ad-9bc3-86693e563748-answer.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-102ecdd5-8d97-47ad-9bc3-86693e563748-answer.jpg"
+        },
+        "darkBackground": false,
+        "point": 1,
+        "question": {
+            "answerFormat": "2",
+            "answers": [
+                "Un capteur Bluetooth qui communique avec les smartphones",
+                "Un système de sécurité connecté",
+                "Un boitier anti onde",
+                "Une station de rechargement sans fil"
+            ],
+            "background": 0,
+            "mediaType": 1,
+            "question": "Qu'est ce qu'un Beacon ?"
+        },
+        "questionIsPortrait": false,
+        "questionMedia": {
+            "__type": "File",
+            "name": "tfss-6b7e47b6-9db4-4d42-bc77-cc9918635623-question.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-6b7e47b6-9db4-4d42-bc77-cc9918635623-question.jpg"
+        },
+        "type": "quiz",
+        "objectId": "DykLnTYwZz"
+    },
+    {
+        "answer": {
+            "explanation": "Mooc : Massive online open course, autrement dit des cours ouverts à tous, en ligne. Le MOOC est une expérience pédagogique innovante qui a déjà séduit des millions de personnes dans le monde.",
+            "mediaType": 2,
+            "rightAnswer": "Des cours en ligne ouverts à tous",
+            "videoUrl": "http://api.dmcloud.net/player/pubpage/4caed016f325e179f0000001/52f87d1e06361d42a8a59cfe/ac30c040a217462b8b59e8c7f08cc8fa?wmode=transparent&chromeless=0&autoplay=1"
+        },
+        "answerIsPortrait": false,
+        "darkBackground": true,
+        "point": 1,
+        "question": {
+            "answerFormat": "2",
+            "answers": [
+                "Des cours en ligne à accès volontairement limité",
+                "Des cours en ligne ouverts à tous",
+                "Des cours en ligne dispensés par une société auprès de ses salariés",
+                "Des cours en ligne dispensés par des étudiants"
+            ],
+            "background": 0,
+            "mediaType": 1,
+            "question": "Un MOOC c'est :"
+        },
+        "questionIsPortrait": false,
+        "questionMedia": {
+            "__type": "File",
+            "name": "tfss-f5d7f390-0803-4180-95a9-2e65679180d0-question.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-f5d7f390-0803-4180-95a9-2e65679180d0-question.jpg"
+        },
+        "type": "quiz",
+        "objectId": "PqIKinn7rA"
+    },
+    {
+        "answer": {
+            "explanation": "Une technologie de communication sans fil à courte portée et haute fréquence, permettant l'échange d'informations entre des périphériques. Les possibilités sont illimitées pour la technologie NFC :  Paiement sans contact, échange de données, etc ...",
+            "mediaType": 2,
+            "rightAnswer": "Near Field Communication",
+            "videoUrl": "https://www.youtube.com/embed/xCDxWPaw8DA"
+        },
+        "answerIsPortrait": false,
+        "darkBackground": true,
+        "point": 1,
+        "question": {
+            "answerFormat": "2",
+            "answers": [
+                "New Feature Command",
+                "New Facebook Command",
+                "Near Facebook Community",
+                "Near Field Communication"
+            ],
+            "background": "0",
+            "mediaType": 1,
+            "question": "Que signifie le sigle NFC ?"
+        },
+        "questionIsPortrait": false,
+        "questionMedia": {
+            "__type": "File",
+            "name": "tfss-5b22df14-27d5-4dc5-91b3-1f4097f2dafb-question.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-5b22df14-27d5-4dc5-91b3-1f4097f2dafb-question.jpg"
+        },
+        "type": "quiz",
+        "objectId": "43x7WUVld1"
+    },
+    {
+        "answer": {
+            "explanation": "En entrant dans un grand magasin, votre téléphone portable sonne. C’est un message de bienvenue. Vous passez ensuite dans un rayon, vous vous attardez devant un produit. Nouveau message: un bon de réduction. Il n’en fallait pas plus pour vous convaincre !",
+            "mediaType": 1,
+            "rightAnswer": "Un capteur Bluetooth qui communique avec les smartphones"
+        },
+        "answerIsPortrait": false,
+        "answerMedia": {
+            "__type": "File",
+            "name": "tfss-102ecdd5-8d97-47ad-9bc3-86693e563748-answer.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-102ecdd5-8d97-47ad-9bc3-86693e563748-answer.jpg"
+        },
+        "darkBackground": false,
+        "point": 1,
+        "question": {
+            "answerFormat": "2",
+            "answers": [
+                "Un capteur Bluetooth qui communique avec les smartphones",
+                "Un système de sécurité connecté",
+                "Un objet connecté dédié à la sécurité",
+                "Une station de rechargement sans fil"
+            ],
+            "background": 0,
+            "mediaType": 1,
+            "question": "Qu'est ce qu'un Beacon ?"
+        },
+        "questionIsPortrait": false,
+        "questionMedia": {
+            "__type": "File",
+            "name": "tfss-6b7e47b6-9db4-4d42-bc77-cc9918635623-question.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-6b7e47b6-9db4-4d42-bc77-cc9918635623-question.jpg"
+        },
+        "type": "quiz",
+        "objectId": "bSoSS72G8M"
+    },
+    {
+        "answer": {
+            "explanation": "Avec 284 millions d'utilisateurs mensuels actifs, Twitter fait désormais partie intégrante des principaux réseaux sociaux. Mais l’utilisation est-elle aussi forte que la notoriété du réseau ? \n44% des utilisateurs n’ont jamais tweeté.",
+            "mediaType": 1,
+            "rightAnswer": "284 millions"
+        },
+        "answerIsPortrait": false,
+        "answerMedia": {
+            "__type": "File",
+            "name": "tfss-5c779603-06c9-4334-b0a2-89d9f4b298fb-answer.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-5c779603-06c9-4334-b0a2-89d9f4b298fb-answer.jpg"
+        },
+        "darkBackground": true,
+        "point": 1,
+        "question": {
+            "answerFormat": "1",
+            "answers": [
+                "224 millions",
+                "254 millions",
+                "284 millions"
+            ],
+            "background": 0,
+            "mediaType": 1,
+            "question": "Combien d'utilisateurs mensuels actifs comptabilise Twitter ?"
+        },
+        "questionIsPortrait": false,
+        "questionMedia": {
+            "__type": "File",
+            "name": "tfss-78cccc03-4ec5-4618-9e61-e0c324756868-question.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-78cccc03-4ec5-4618-9e61-e0c324756868-question.jpg"
+        },
+        "type": "quiz",
+        "objectId": "zvdlU877SZ"
+    },
+    {
+        "answer": {
+            "explanation": "Comparativement, au texte, aux liens, et même aux vidéos, la photo est le contenu partagé qui génère le plus « d'engagement » de la part des membres d'une communauté. La photo génère en moyenne jusqu'à 53% de \"likes\" en plus que les autres types de posts.",
+            "mediaType": 1,
+            "rightAnswer": "La photo"
+        },
+        "answerIsPortrait": false,
+        "answerMedia": {
+            "__type": "File",
+            "name": "tfss-eb02a600-09d5-4dd7-b23b-34bac0a3a873-answer.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-eb02a600-09d5-4dd7-b23b-34bac0a3a873-answer.jpg"
+        },
+        "darkBackground": true,
+        "point": 1,
+        "question": {
+            "answerFormat": "2",
+            "answers": [
+                "Le texte",
+                "La vidéo",
+                "La photo",
+                "Le lien hypertexte"
+            ],
+            "background": "0",
+            "mediaType": 1,
+            "question": "Le format le plus ‘viral’  sur les réseaux sociaux est?"
+        },
+        "questionIsPortrait": false,
+        "questionMedia": {
+            "__type": "File",
+            "name": "tfss-a6dd122e-4b1f-46c9-8846-501c4b900c4d-question.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-a6dd122e-4b1f-46c9-8846-501c4b900c4d-question.jpg"
+        },
+        "type": "quiz",
+        "objectId": "Mjxtg6ymB6"
+    },
+    {
+        "answer": {
+            "explanation": "Un Tweet = 140 caractères maximum, soit 20 caractères de moins que les SMS (160 caractères). Le tout est de développer votre esprit de synthèse. Il faut parvenir à articuler une pensée de façon très courte.",
+            "mediaType": 1,
+            "rightAnswer": "140"
+        },
+        "answerIsPortrait": false,
+        "answerMedia": {
+            "__type": "File",
+            "name": "tfss-027cbd09-06a7-449d-8b8f-7d642c22b514-answer.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-027cbd09-06a7-449d-8b8f-7d642c22b514-answer.jpg"
+        },
+        "darkBackground": false,
+        "point": 1,
+        "question": {
+            "answerFormat": "2",
+            "answers": [
+                "40",
+                "120",
+                "140",
+                "220"
+            ],
+            "background": 0,
+            "mediaType": 1,
+            "question": "Sur Twitter, combien de caractères peut contenir un \"tweet\" ?"
+        },
+        "questionIsPortrait": false,
+        "questionMedia": {
+            "__type": "File",
+            "name": "tfss-86e3c37a-dbb1-4c4a-94b7-3023596f95cb-question.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-86e3c37a-dbb1-4c4a-94b7-3023596f95cb-question.jpg"
+        },
+        "type": "quiz",
+        "objectId": "T8e885SdIw"
+    },
+    {
+        "answer": {
+            "explanation": "Le retour de la pause déjeuner est un moment propice au travail de publication, modération ou d’analyse.",
+            "mediaType": 1,
+            "rightAnswer": "Entre 14 heures et 15 heures"
+        },
+        "answerIsPortrait": false,
+        "answerMedia": {
+            "__type": "File",
+            "name": "tfss-7c5d69c2-67c2-4544-8fc5-5d8b90fc529d-answer.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-7c5d69c2-67c2-4544-8fc5-5d8b90fc529d-answer.jpg"
+        },
+        "darkBackground": true,
+        "point": 1,
+        "question": {
+            "answerFormat": "1",
+            "answers": [
+                "Entre 14 heures et 15 heures",
+                "Entre 18 heures et 19 heures",
+                "Entre 9 heures et 10 heures"
+            ],
+            "background": 0,
+            "mediaType": 1,
+            "question": "Pendant quel créneau horaire les Community Managers sont-ils le plus actif ?"
+        },
+        "questionIsPortrait": false,
+        "questionMedia": {
+            "__type": "File",
+            "name": "tfss-e6747d33-2dda-4b70-a38f-b8cc53073287-question.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-e6747d33-2dda-4b70-a38f-b8cc53073287-question.jpg"
+        },
+        "type": "quiz",
+        "objectId": "rEfwr7iHQG"
+    },
+    {
+        "answer": {
+            "explanation": "SlideShare est la plus grande communauté au monde pour partager des présentations professionnelles. Projets de travail, résultats d'études et présentations corporate peuvent ainsi être partagés facilement. La plateforme fut racheté par Linkedin en 2012.",
+            "mediaType": 1,
+            "rightAnswer": "Une plateforme de partage de contenu BtoB"
+        },
+        "answerIsPortrait": false,
+        "answerMedia": {
+            "__type": "File",
+            "name": "tfss-7d30db97-07ab-40e4-b7c4-440383f5a8aa-answer.png",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-7d30db97-07ab-40e4-b7c4-440383f5a8aa-answer.png"
+        },
+        "darkBackground": true,
+        "point": 1,
+        "question": {
+            "answerFormat": "1",
+            "answers": [
+                "Une plateforme de partage de contenu BtoB",
+                "Un réseau social dédié à l'innovation",
+                "Un réseau social professionnel"
+            ],
+            "background": 0,
+            "mediaType": 1,
+            "question": "Qu'est-ce que Slideshare ?"
+        },
+        "questionIsPortrait": false,
+        "questionMedia": {
+            "__type": "File",
+            "name": "tfss-acbc70d5-c970-41ea-b557-d97fdd1cf535-question.png",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-acbc70d5-c970-41ea-b557-d97fdd1cf535-question.png"
+        },
+        "type": "quiz",
+        "objectId": "d16xkkNMJ1"
+    },
+    {
+        "answer": {
+            "explanation": "Pinterest est le réseau social qui a connu la plus forte croissance en 2014. Pinterest a ainsi augmenté de 97% son nombre d’utilisateurs actifs et de 54% son nombre de nouveaux membres par rapport à l’année précédente.",
+            "mediaType": 2,
+            "rightAnswer": "Pinterest",
+            "videoUrl": "https://www.youtube.com/embed/MTI82QiRxGI"
+        },
+        "answerIsPortrait": false,
+        "darkBackground": true,
+        "point": 1,
+        "question": {
+            "answerFormat": "2",
+            "answers": [
+                "Pinterest",
+                "Facebook",
+                "Linkedin",
+                "Google +"
+            ],
+            "background": 0,
+            "mediaType": 1,
+            "question": "Parmi ces 3 réseaux sociaux, lequel a connu la plus forte croissance en 2014 ?"
+        },
+        "questionIsPortrait": false,
+        "questionMedia": {
+            "__type": "File",
+            "name": "tfss-af1a1bef-ea95-43d5-b376-e68adfafd80d-question.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-af1a1bef-ea95-43d5-b376-e68adfafd80d-question.jpg"
+        },
+        "type": "quiz",
+        "objectId": "xx1BajwsyR"
+    },
+    {
+        "answer": {
+            "explanation": "En 2012, alors que l’emblématique KODAK (17 000 salariés) fait faillite, Facebook rachète Instagram réseaux social spécialisée  dans le partage de photos (14 salariés). L’industrie de la photographie n’est pas épargnée par la disruption digitale.",
+            "mediaType": 1,
+            "rightAnswer": "Instagram"
+        },
+        "answerIsPortrait": false,
+        "answerMedia": {
+            "__type": "File",
+            "name": "tfss-a4b151fb-7abc-422b-872b-5e3f73a89ebe-answer.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-a4b151fb-7abc-422b-872b-5e3f73a89ebe-answer.jpg"
+        },
+        "darkBackground": true,
+        "point": 1,
+        "question": {
+            "answerFormat": "2",
+            "answers": [
+                "Snapchat",
+                "WeChat",
+                "Instagram",
+                "Whats'App"
+            ],
+            "background": 0,
+            "mediaType": 1,
+            "question": "En 2012 Facebook rachète 1 milliard de $ la start-up de partage de photo ..."
+        },
+        "questionIsPortrait": false,
+        "questionMedia": {
+            "__type": "File",
+            "name": "tfss-ffd37828-8c4e-426f-888e-2acb6146eeb0-question.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-ffd37828-8c4e-426f-888e-2acb6146eeb0-question.jpg"
+        },
+        "type": "quiz",
+        "objectId": "ZbfWivpKxX"
+    },
+    {
+        "answer": {
+            "explanation": "L'internet des choses prend définitivement forme et s'apprête à devenir progressivement la norme. Avec une projection de 50 milliards d'unités, la prochaine générations d’objets connectés à Internet devrait considérablement modifier nos habitudes de vie.",
+            "mediaType": 2,
+            "rightAnswer": "50 Milliards",
+            "videoUrl": "https://www.youtube.com/embed/xU748NZC1tk"
+        },
+        "answerIsPortrait": false,
+        "darkBackground": true,
+        "point": 1,
+        "question": {
+            "answerFormat": "2",
+            "answers": [
+                "15 Milliards",
+                "35 Milliards",
+                "50 Milliards",
+                "75 Milliards"
+            ],
+            "background": 0,
+            "mediaType": 1,
+            "question": "En 2020, on prévoit … Milliards d’objets connectés dans le monde"
+        },
+        "questionIsPortrait": false,
+        "questionMedia": {
+            "__type": "File",
+            "name": "tfss-142ad223-0545-4a47-8d36-84b24c7fcafd-question.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-142ad223-0545-4a47-8d36-84b24c7fcafd-question.jpg"
+        },
+        "type": "quiz",
+        "objectId": "F7ILvpZ7hU"
+    },
+    {
+        "answer": {
+            "explanation": "Facebook compte 1.4 milliard d’utilisateurs (Mai 2015). Si Facebook était un pays, il serait le plus peuplé au monde devant la Chine et l'Inde.",
+            "mediaType": 1,
+            "rightAnswer": "1.4 Milliard"
+        },
+        "answerIsPortrait": false,
+        "answerMedia": {
+            "__type": "File",
+            "name": "tfss-86042373-6c10-4569-a6e7-2f9226dbbe96-answer.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-86042373-6c10-4569-a6e7-2f9226dbbe96-answer.jpg"
+        },
+        "darkBackground": true,
+        "point": 1,
+        "question": {
+            "answerFormat": "2",
+            "answers": [
+                "3.2 Milliards",
+                "1.4 Milliard",
+                "800 Millions",
+                "550 Millions"
+            ],
+            "background": "0",
+            "mediaType": 1,
+            "question": "Combien y-a-t-il d’utilisateurs Facebook dans le monde ?"
+        },
+        "questionIsPortrait": false,
+        "questionMedia": {
+            "__type": "File",
+            "name": "tfss-d644ee53-6cc2-4590-97af-b25f9cba74ef-question.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-d644ee53-6cc2-4590-97af-b25f9cba74ef-question.jpg"
+        },
+        "type": "quiz",
+        "objectId": "4Lu4M3HCSO"
+    },
+    {
+        "answer": {
+            "explanation": "Aujourd’hui, la moitié (50%) du trafic de Youtube vient désormais du mobile.",
+            "mediaType": 1,
+            "rightAnswer": "50%"
+        },
+        "answerIsPortrait": false,
+        "answerMedia": {
+            "__type": "File",
+            "name": "tfss-f19ba272-06f9-4f48-b371-5fc680d52047-answer.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-f19ba272-06f9-4f48-b371-5fc680d52047-answer.jpg"
+        },
+        "darkBackground": false,
+        "point": 1,
+        "question": {
+            "answerFormat": "2",
+            "answers": [
+                "10%",
+                "25%",
+                "50%",
+                "75%"
+            ],
+            "background": 0,
+            "mediaType": 1,
+            "question": "Sur 100 vidéos visionnées sur Youtube, combien le sont à partir d’un mobile ?"
+        },
+        "questionIsPortrait": false,
+        "questionMedia": {
+            "__type": "File",
+            "name": "tfss-8cfa5aa6-05b3-4801-951c-b0a3915d2c65-question.png",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-8cfa5aa6-05b3-4801-951c-b0a3915d2c65-question.png"
+        },
+        "type": "quiz",
+        "objectId": "WC0JzT1dJj"
+    },
+    {
+        "answer": {
+            "explanation": "Le nombre de visiteurs uniques mesure le nombre de personnes différentes s’étant connectées au moins une fois au cours d'une période donnée. Une personne n’est comptée qu’une seule fois, qu’elle ait fait une ou dix visites au cours de la période analysée.",
+            "mediaType": 1,
+            "rightAnswer": "Une unité de mesure de votre audience"
+        },
+        "answerIsPortrait": false,
+        "answerMedia": {
+            "__type": "File",
+            "name": "tfss-48200fca-8b35-4c2a-bac1-71788f62befa-answer.png",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-48200fca-8b35-4c2a-bac1-71788f62befa-answer.png"
+        },
+        "darkBackground": true,
+        "point": 1,
+        "question": {
+            "answerFormat": "1",
+            "answers": [
+                "Un client fidèle",
+                "Une unité de mesure de votre audience",
+                "Une option de visualisation sur mesure de votre site internet"
+            ],
+            "background": 0,
+            "mediaType": 1,
+            "question": "Un visiteur unique c’est :"
+        },
+        "questionIsPortrait": false,
+        "questionMedia": {
+            "__type": "File",
+            "name": "tfss-7a5c07a6-859d-4051-b310-a4dbab750c2c-question.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-7a5c07a6-859d-4051-b310-a4dbab750c2c-question.jpg"
+        },
+        "type": "quiz",
+        "objectId": "FOIx5pnZhR"
+    },
+    {
+        "answer": {
+            "explanation": "La création de contenus par la marque, ou brand content, apparaît aux annonceurs comme un levier indispensable pour exister en digital et plus généralement pour donner consistance et sens à la marque tout en enrichissant la relation avec les publics.",
+            "mediaType": 1,
+            "rightAnswer": "L’ensemble des contenus créé par une marque à des fins publicitaires"
+        },
+        "answerIsPortrait": false,
+        "answerMedia": {
+            "__type": "File",
+            "name": "tfss-470622ae-d85e-431b-971d-08d370502c40-answer.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-470622ae-d85e-431b-971d-08d370502c40-answer.jpg"
+        },
+        "darkBackground": true,
+        "point": 1,
+        "question": {
+            "answerFormat": "1",
+            "answers": [
+                "Un indice de réputation en ligne de votre marque",
+                "Un outil de mesure de son audience",
+                "L’ensemble des contenus créé par une marque à des fins publicitaires"
+            ],
+            "background": "1",
+            "mediaType": 1,
+            "question": "Le brand content c’est  :"
+        },
+        "questionIsPortrait": false,
+        "questionMedia": {
+            "__type": "File",
+            "name": "tfss-abbdc5e0-a5f8-44d7-8562-e542b654fd37-question.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-abbdc5e0-a5f8-44d7-8562-e542b654fd37-question.jpg"
+        },
+        "type": "quiz",
+        "objectId": "vxAKerkWwp"
+    },
+    {
+        "answer": {
+            "explanation": "Il est possible de diffuser des publicités ciblées selon les préférences et les centres d’intérêt de chaque consommateur, de son profil, ou bien même de sa géolocalisation.",
+            "mediaType": 1,
+            "rightAnswer": "Les 3 segmentations ci-dessus"
+        },
+        "answerIsPortrait": false,
+        "answerMedia": {
+            "__type": "File",
+            "name": "tfss-3839f955-40b4-437a-8594-a78fe30fef1a-answer.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-3839f955-40b4-437a-8594-a78fe30fef1a-answer.jpg"
+        },
+        "darkBackground": true,
+        "point": 1,
+        "question": {
+            "answerFormat": "2",
+            "answers": [
+                "Démographique",
+                "Comportementale",
+                "Sémantique / Contextuelle",
+                "Les 3 segmentations ci-dessus"
+            ],
+            "background": 0,
+            "mediaType": 1,
+            "question": "Pour la publicité display, laquelle de ces segmentations est posssible ?"
+        },
+        "questionIsPortrait": false,
+        "questionMedia": {
+            "__type": "File",
+            "name": "tfss-2f875fc1-5940-40f7-870b-301bbd4976a3-question.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-2f875fc1-5940-40f7-870b-301bbd4976a3-question.jpg"
+        },
+        "type": "quiz",
+        "objectId": "orCt6OxQBs"
+    },
+    {
+        "answer": {
+            "explanation": "Responsive design est une notion de conception de sites web qui regroupe différents principes et technologies dans laquelle un site est conçu pour offrir au visiteur une expérience de consultation optimale sur tous les terminaux facilitant la navigation.",
+            "mediaType": 1,
+            "rightAnswer": "La conception d’interfaces adapatées à tous les terminaux"
+        },
+        "answerIsPortrait": false,
+        "answerMedia": {
+            "__type": "File",
+            "name": "tfss-c679b8ba-ccc8-45b7-bf88-afc4fd2b450e-answer.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-c679b8ba-ccc8-45b7-bf88-afc4fd2b450e-answer.jpg"
+        },
+        "darkBackground": true,
+        "point": 1,
+        "question": {
+            "answerFormat": "1",
+            "answers": [
+                "La conception d’interfaces très esthétiques",
+                "La conception d’interfaces répondant automatiquement aux questions",
+                "La conception d’interfaces adapatées à tous les terminaux"
+            ],
+            "background": 0,
+            "mediaType": 1,
+            "question": "Qu’entend-on par Responsive design ?"
+        },
+        "questionIsPortrait": false,
+        "questionMedia": {
+            "__type": "File",
+            "name": "tfss-8b5a85ee-63b9-4984-8736-dd11b114efc2-question.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-8b5a85ee-63b9-4984-8736-dd11b114efc2-question.jpg"
+        },
+        "type": "quiz",
+        "objectId": "F9bkBxxdbo"
+    },
+    {
+        "answer": {
+            "explanation": "Responsive design est une notion de conception de sites web qui regroupe différents principes et technologies dans laquelle un site est conçu pour offrir au visiteur une expérience de consultation optimale sur tous les terminaux facilitant la navigation.",
+            "mediaType": 1,
+            "rightAnswer": "La conception d’interfaces adapatées à tous les terminaux"
+        },
+        "answerIsPortrait": false,
+        "answerMedia": {
+            "__type": "File",
+            "name": "tfss-8408b744-dc38-4905-8ed7-74ca14d2ac71-answer.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-8408b744-dc38-4905-8ed7-74ca14d2ac71-answer.jpg"
+        },
+        "darkBackground": true,
+        "point": 2,
+        "question": {
+            "answerFormat": "2",
+            "answers": [
+                "La conception d’interfaces adaptées uniquement aux mobiles",
+                "La conception d’interfaces adaptées uniquement aux ordinateurs",
+                "La conception d’interface adapatées uniquement aux tablettes",
+                "La conception d’interfaces adapatées à tous les terminaux"
+            ],
+            "background": 0,
+            "mediaType": 1,
+            "question": "Qu’entend-on par Responsive design ?"
+        },
+        "questionIsPortrait": false,
+        "questionMedia": {
+            "__type": "File",
+            "name": "tfss-fa307a30-e0f2-4295-ac68-e35ba5d62fb2-question.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-fa307a30-e0f2-4295-ac68-e35ba5d62fb2-question.jpg"
+        },
+        "type": "quiz",
+        "objectId": "vNOBQipl3G"
+    },
+    {
+        "answer": {
+            "explanation": "Responsive design est une notion de conception de sites web qui regroupe différents principes et technologies dans laquelle un site est conçu pour offrir au visiteur une expérience de consultation optimale sur tous les terminaux facilitant la navigation.",
+            "mediaType": 1,
+            "rightAnswer": "La conception d’interfaces adapatées à tous les terminaux"
+        },
+        "answerIsPortrait": false,
+        "answerMedia": {
+            "__type": "File",
+            "name": "tfss-8408b744-dc38-4905-8ed7-74ca14d2ac71-answer.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-8408b744-dc38-4905-8ed7-74ca14d2ac71-answer.jpg"
+        },
+        "darkBackground": true,
+        "point": 2,
+        "question": {
+            "answerFormat": "2",
+            "answers": [
+                "La conception d’interfaces adaptées uniquement aux mobiles",
+                "La conception d’interfaces adaptées uniquement aux ordinateurs",
+                "La conception d’interface adapatées uniquement aux tablettes",
+                "La conception d’interfaces adapatées à tous les terminaux"
+            ],
+            "background": 0,
+            "mediaType": 1,
+            "question": "Qu’entend-on par Responsive design ?"
+        },
+        "questionIsPortrait": false,
+        "questionMedia": {
+            "__type": "File",
+            "name": "tfss-863cae22-97f3-4613-8008-6e16a10ab7e3-question.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-863cae22-97f3-4613-8008-6e16a10ab7e3-question.jpg"
+        },
+        "type": "quiz",
+        "objectId": "mMpkX8OUju"
+    },
+    {
+        "answer": {
+            "explanation": "Responsive design est une notion de conception de sites web qui regroupe différents principes et technologies dans laquelle un site est conçu pour offrir au visiteur une expérience de consultation optimale sur tous les terminaux facilitant la navigation.",
+            "mediaType": 1,
+            "rightAnswer": "La conception d’interfaces adapatées à tous les terminaux"
+        },
+        "answerIsPortrait": false,
+        "answerMedia": {
+            "__type": "File",
+            "name": "tfss-8408b744-dc38-4905-8ed7-74ca14d2ac71-answer.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-8408b744-dc38-4905-8ed7-74ca14d2ac71-answer.jpg"
+        },
+        "darkBackground": true,
+        "point": 2,
+        "question": {
+            "answerFormat": "2",
+            "answers": [
+                "La conception d’interfaces adaptées uniquement aux mobiles",
+                "La conception d’interfaces adaptées uniquement aux ordinateurs",
+                "La conception d’interface adapatées uniquement aux tablettes",
+                "La conception d’interfaces adapatées à tous les terminaux"
+            ],
+            "background": 0,
+            "mediaType": 1,
+            "question": "Qu’entend-on par Responsive design ?"
+        },
+        "questionIsPortrait": false,
+        "questionMedia": {
+            "__type": "File",
+            "name": "tfss-aa709c4e-3196-4a94-835d-ae6f9b025129-question.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-aa709c4e-3196-4a94-835d-ae6f9b025129-question.jpg"
+        },
+        "type": "quiz",
+        "objectId": "yknXdYBVLi"
+    },
+    {
+        "answer": {
+            "explanation": "L’UGC (User Generated Content) désigne les contenus créés par les visiteurs sur les sites ou espaces  communautaires. Ils permettent de générer des contenus à coût zéro puisque produits par les visiteurs, donc des pages vues et des revenus publicitaires.",
+            "mediaType": 1,
+            "rightAnswer": "User Generated Content"
+        },
+        "answerIsPortrait": false,
+        "answerMedia": {
+            "__type": "File",
+            "name": "tfss-a8e64a0b-64ef-4e60-8a61-29054ae91916-answer.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-a8e64a0b-64ef-4e60-8a61-29054ae91916-answer.jpg"
+        },
+        "darkBackground": false,
+        "point": 1,
+        "question": {
+            "answerFormat": "2",
+            "answers": [
+                "Unit of Growth per Consumer",
+                "Useful Growing Content",
+                "User Generated Content",
+                "UX General Compensation"
+            ],
+            "background": 0,
+            "mediaType": 1,
+            "question": "Que signifie le sigle UGC en Marketing ?"
+        },
+        "questionIsPortrait": false,
+        "questionMedia": {
+            "__type": "File",
+            "name": "tfss-9952fa47-70f7-417c-8f3d-5c1c21916751-question.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-9952fa47-70f7-417c-8f3d-5c1c21916751-question.jpg"
+        },
+        "type": "quiz",
+        "objectId": "L8TtuCKZCI"
+    },
+    {
+        "answer": {
+            "explanation": "Responsive design est une notion de conception de sites web qui regroupe différents principes et technologies dans laquelle un site est conçu pour offrir au visiteur une expérience de consultation optimale sur tous les terminaux facilitant la navigation.",
+            "mediaType": 1,
+            "rightAnswer": "La conception d’interfaces adapatées à tous les terminaux"
+        },
+        "answerIsPortrait": false,
+        "answerMedia": {
+            "__type": "File",
+            "name": "tfss-8408b744-dc38-4905-8ed7-74ca14d2ac71-answer.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-8408b744-dc38-4905-8ed7-74ca14d2ac71-answer.jpg"
+        },
+        "darkBackground": true,
+        "point": 2,
+        "question": {
+            "answerFormat": "2",
+            "answers": [
+                "La conception d’interfaces adaptées qu'aux mobiles",
+                "La conception d’interfaces adaptées qu'aux ordinateurs",
+                "La conception d’interface adapatées qu'aux tablettes",
+                "La conception d’interfaces adapatées à tous les terminaux"
+            ],
+            "background": 0,
+            "mediaType": 1,
+            "question": "Qu’entend-on par Responsive design ?"
+        },
+        "questionIsPortrait": false,
+        "questionMedia": {
+            "__type": "File",
+            "name": "tfss-f039b5ee-acf4-4bb1-884d-a96228a19025-question.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-f039b5ee-acf4-4bb1-884d-a96228a19025-question.jpg"
+        },
+        "type": "quiz",
+        "objectId": "TDUFMNFuSB"
+    },
+    {
+        "answer": {
+            "explanation": "Responsive design est une notion de conception de sites web qui regroupe différents principes et technologies dans laquelle un site est conçu pour offrir au visiteur une expérience de consultation optimale sur tous les terminaux facilitant la navigation.",
+            "mediaType": 1,
+            "rightAnswer": "La conception d’interfaces adapatées à tous les terminaux"
+        },
+        "answerIsPortrait": false,
+        "answerMedia": {
+            "__type": "File",
+            "name": "tfss-8408b744-dc38-4905-8ed7-74ca14d2ac71-answer.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-8408b744-dc38-4905-8ed7-74ca14d2ac71-answer.jpg"
+        },
+        "darkBackground": true,
+        "point": 2,
+        "question": {
+            "answerFormat": "2",
+            "answers": [
+                "La conception d’interfaces adaptées uniquement aux mobiles",
+                "La conception d’interfaces adaptées uniquement aux ordinateurs",
+                "La conception d’interface adapatées uniquement aux tablettes",
+                "La conception d’interfaces adapatées à tous les terminaux"
+            ],
+            "background": "0",
+            "mediaType": 1,
+            "question": "Qu’entend-on par Responsive design ?"
+        },
+        "questionIsPortrait": false,
+        "questionMedia": {
+            "__type": "File",
+            "name": "tfss-f039b5ee-acf4-4bb1-884d-a96228a19025-question.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-f039b5ee-acf4-4bb1-884d-a96228a19025-question.jpg"
+        },
+        "type": "quiz",
+        "objectId": "6S5WG6Pa0W"
+    },
+    {
+        "answer": {
+            "explanation": "ATAWAD (Any time, Anywhere, Any device) symbolise le fait que l’individu a la possibilité de se connecter quel que soit le lieu, quel que soit le moment, quel que soit le support/terminal utilisé. C'est par exemple le cas de la solution mobile SPARTED.",
+            "mediaType": 1,
+            "rightAnswer": "Any time, Anywhere, Any device"
+        },
+        "answerIsPortrait": false,
+        "answerMedia": {
+            "__type": "File",
+            "name": "tfss-7f3218fd-b7f3-458e-9ca6-96089b73e91f-answer.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-7f3218fd-b7f3-458e-9ca6-96089b73e91f-answer.jpg"
+        },
+        "darkBackground": false,
+        "point": 1,
+        "question": {
+            "answerFormat": "2",
+            "answers": [
+                "Any time, Anywhere, Any device",
+                "Any tools, Anyway, Any device",
+                "Anything, Anywhere, Any day",
+                "Any Time, Anywhere, Any day"
+            ],
+            "background": 0,
+            "mediaType": 1,
+            "question": "Que signifie l’acronyme ATAWAD ?"
+        },
+        "questionIsPortrait": false,
+        "questionMedia": {
+            "__type": "File",
+            "name": "tfss-0df04bcb-73bc-4daa-a0fa-d21e567c8393-question.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-0df04bcb-73bc-4daa-a0fa-d21e567c8393-question.jpg"
+        },
+        "type": "quiz",
+        "objectId": "uzB90nLYEa"
+    },
+    {
+        "answer": {
+            "explanation": "jhsdfjhzegff ezfggf zekfhifhz \nkzerjhfkjrzhf\nzekjfkjh\nezkjhfkeh\nezkfjhkjze\nkjzefjkjkj \nezkjhfjhezkzfj",
+            "mediaType": 1,
+            "rightAnswer": "liehzdflezh"
+        },
+        "answerIsPortrait": false,
+        "answerMedia": {
+            "__type": "File",
+            "name": "tfss-df5d905a-bbb4-4e79-8ebd-dbf72b40d823-answer.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-df5d905a-bbb4-4e79-8ebd-dbf72b40d823-answer.jpg"
+        },
+        "darkBackground": true,
+        "point": 1,
+        "question": {
+            "answerFormat": "1",
+            "answers": [
+                "ezkzehfkh",
+                "liehzdflezh",
+                "edk"
+            ],
+            "background": "0",
+            "mediaType": 1,
+            "question": "jwdkjdhcsdkjb cdskcjdhckdjhvcds dsdkj cdkhsukhd dskhckjhdc kh"
+        },
+        "questionIsPortrait": false,
+        "questionMedia": {
+            "__type": "File",
+            "name": "tfss-c4da27bd-9393-436d-8982-4d41907faab6-question.png",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-c4da27bd-9393-436d-8982-4d41907faab6-question.png"
+        },
+        "type": "quiz",
+        "objectId": "vks6wSHxP3"
+    },
+    {
+        "answer": {
+            "explanation": "Je suis Lucas parce que je suis Lucas",
+            "mediaType": 1,
+            "rightAnswer": "Lucas"
+        },
+        "answerIsPortrait": false,
+        "answerMedia": {
+            "__type": "File",
+            "name": "tfss-d8d717bc-44a9-4323-bfdb-f436585a0369-answer.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-d8d717bc-44a9-4323-bfdb-f436585a0369-answer.jpg"
+        },
+        "darkBackground": true,
+        "point": 1,
+        "question": {
+            "answerFormat": "1",
+            "answers": [
+                "Lucas",
+                "Paul",
+                "Jack"
+            ],
+            "background": 0,
+            "mediaType": 1,
+            "question": "Qui suis-je ?"
+        },
+        "questionIsPortrait": false,
+        "questionMedia": {
+            "__type": "File",
+            "name": "tfss-d61b0657-02fe-484f-81a0-810df1ea40f0-question.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-d61b0657-02fe-484f-81a0-810df1ea40f0-question.jpg"
+        },
+        "type": "quiz",
+        "objectId": "Z86T0tWMf9"
+    },
+    {
+        "answer": {
+            "explanation": "Rien ne sert de courir ; il faut partir à point. Le Lièvre et la Tortue en sont un témoignage. Gageons, dit celle-ci, que vous n'atteindrez point Sitôt que moi ce but. - Sitôt ? Etes-vous sage ? Repartit l'animal léger.\n\nJean de La Fontaine",
+            "mediaType": 1,
+            "rightAnswer": "Partir à point"
+        },
+        "answerIsPortrait": false,
+        "answerMedia": {
+            "__type": "File",
+            "name": "tfss-ae78390c-2507-4873-a649-dbccb09da420-answer.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-ae78390c-2507-4873-a649-dbccb09da420-answer.jpg"
+        },
+        "darkBackground": false,
+        "point": 1,
+        "question": {
+            "answerFormat": "1",
+            "answers": [
+                "Marcher dans le rang",
+                "Partir à point",
+                "Nager à temps"
+            ],
+            "background": "0",
+            "mediaType": 1,
+            "question": "Rien ne sert de courir, il faut..."
+        },
+        "questionIsPortrait": false,
+        "questionMedia": {
+            "__type": "File",
+            "name": "tfss-4fad92e1-08f2-475f-afa1-bcc1ded7cec9-question.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-4fad92e1-08f2-475f-afa1-bcc1ded7cec9-question.jpg"
+        },
+        "type": "quiz",
+        "objectId": "DfDGj40XTW"
+    },
+    {
+        "answer": {
+            "explanation": "Rien ne sert de courir ; il faut partir à point. Le Lièvre et la Tortue en sont un témoignage. Gageons, dit celle-ci, que vous n'atteindrez point Sitôt que moi ce but. - Sitôt ? Etes-vous sage ? Repartit l'animal léger.\n\nJean de La Fontaine",
+            "mediaType": 1,
+            "rightAnswer": "Partir à point"
+        },
+        "answerIsPortrait": false,
+        "answerMedia": {
+            "__type": "File",
+            "name": "tfss-51cab0e1-b78f-4ff7-9f17-12b2a5253e0b-answer.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-51cab0e1-b78f-4ff7-9f17-12b2a5253e0b-answer.jpg"
+        },
+        "darkBackground": true,
+        "point": 1,
+        "question": {
+            "answerFormat": "1",
+            "answers": [
+                "Marcher dans le rang",
+                "Partir à point",
+                "Nager à temps"
+            ],
+            "background": "0",
+            "mediaType": 1,
+            "question": "Rien ne sert de courir, il faut..."
+        },
+        "questionIsPortrait": false,
+        "questionMedia": {
+            "__type": "File",
+            "name": "tfss-4fad92e1-08f2-475f-afa1-bcc1ded7cec9-question.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-4fad92e1-08f2-475f-afa1-bcc1ded7cec9-question.jpg"
+        },
+        "type": "quiz",
+        "objectId": "Y6kxmbLERf"
+    },
+    {
+        "answer": {
+            "explanation": "Rien ne sert de courir ; il faut partir à point. Le Lièvre et la Tortue en sont un témoignage. Gageons, dit celle-ci, que vous n'atteindrez point Sitôt que moi ce but. - Sitôt ? Etes-vous sage ? Repartit l'animal léger.\n\nJean de La Fontaine",
+            "mediaType": 1,
+            "rightAnswer": "Partir à point"
+        },
+        "answerIsPortrait": false,
+        "answerMedia": {
+            "__type": "File",
+            "name": "tfss-9fe64875-7ac7-42a0-ac44-d0880b686512-answer.png",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-9fe64875-7ac7-42a0-ac44-d0880b686512-answer.png"
+        },
+        "darkBackground": false,
+        "point": 1,
+        "question": {
+            "answerFormat": "1",
+            "answers": [
+                "Marcher dans le rang",
+                "Partir à point",
+                "Nager à temps"
+            ],
+            "background": 1,
+            "mediaType": 1,
+            "question": "Rien ne sert de courir, il faut..."
+        },
+        "questionIsPortrait": false,
+        "questionMedia": {
+            "__type": "File",
+            "name": "tfss-4fad92e1-08f2-475f-afa1-bcc1ded7cec9-question.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-4fad92e1-08f2-475f-afa1-bcc1ded7cec9-question.jpg"
+        },
+        "type": "quiz",
+        "objectId": "0jbtVJSVUf"
+    },
+    {
+        "answer": {
+            "explanation": "Rien ne sert de courir ; il faut partir à point. Le Lièvre et la Tortue en sont un témoignage. Gageons, dit celle-ci, que vous n'atteindrez point Sitôt que moi ce but. - Sitôt ? Etes-vous sage ? Repartit l'animal léger.\n\nJean de La Fontaine",
+            "mediaType": 1,
+            "rightAnswer": "Partir à point"
+        },
+        "answerIsPortrait": false,
+        "answerMedia": {
+            "__type": "File",
+            "name": "tfss-fce3eaf8-fffe-4011-9167-ab080ed3cce3-answer.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-fce3eaf8-fffe-4011-9167-ab080ed3cce3-answer.jpg"
+        },
+        "darkBackground": false,
+        "point": 1,
+        "question": {
+            "answerFormat": "1",
+            "answers": [
+                "Marcher dans le rang",
+                "Partir à point",
+                "Nager à temps"
+            ],
+            "background": 1,
+            "mediaType": 1,
+            "question": "Rien ne sert de courir, il faut..."
+        },
+        "questionIsPortrait": false,
+        "questionMedia": {
+            "__type": "File",
+            "name": "tfss-4fad92e1-08f2-475f-afa1-bcc1ded7cec9-question.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-4fad92e1-08f2-475f-afa1-bcc1ded7cec9-question.jpg"
+        },
+        "type": "quiz",
+        "objectId": "GvB0R8SXVt"
+    },
+    {
+        "answer": {
+            "explanation": "Rien ne sert de courir ; il faut partir à point. Le Lièvre et la Tortue en sont un témoignage. Gageons, dit celle-ci, que vous n'atteindrez point Sitôt que moi ce but. - Sitôt ? Etes-vous sage ? Repartit l'animal léger.\n\nJean de La Fontaine",
+            "mediaType": 1,
+            "rightAnswer": "Partir à point"
+        },
+        "answerIsPortrait": false,
+        "answerMedia": {
+            "__type": "File",
+            "name": "tfss-47475f58-53eb-4ac6-8f3a-bdb7a26ee699-answer.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-47475f58-53eb-4ac6-8f3a-bdb7a26ee699-answer.jpg"
+        },
+        "darkBackground": false,
+        "point": 1,
+        "question": {
+            "answerFormat": "1",
+            "answers": [
+                "Marcher dans le rang",
+                "Partir à point",
+                "Nager à temps"
+            ],
+            "background": "0",
+            "mediaType": 1,
+            "question": "Rien ne sert de courir, il faut..."
+        },
+        "questionIsPortrait": false,
+        "questionMedia": {
+            "__type": "File",
+            "name": "tfss-4fad92e1-08f2-475f-afa1-bcc1ded7cec9-question.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-4fad92e1-08f2-475f-afa1-bcc1ded7cec9-question.jpg"
+        },
+        "type": "quiz",
+        "objectId": "isfsU2HKcU"
+    },
+    {
+        "answer": {
+            "explanation": "Rien ne sert de courir ; il faut partir à point. Le Lièvre et la Tortue en sont un témoignage. Gageons, dit celle-ci, que vous n'atteindrez point Sitôt que moi ce but. - Sitôt ? Etes-vous sage ? Repartit l'animal léger.\n\nJean de La Fontaine",
+            "mediaType": 1,
+            "rightAnswer": "Partir à point"
+        },
+        "answerIsPortrait": false,
+        "answerMedia": {
+            "__type": "File",
+            "name": "tfss-47475f58-53eb-4ac6-8f3a-bdb7a26ee699-answer.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-47475f58-53eb-4ac6-8f3a-bdb7a26ee699-answer.jpg"
+        },
+        "darkBackground": false,
+        "point": 1,
+        "question": {
+            "answerFormat": "1",
+            "answers": [
+                "Marcher dans le rang",
+                "Partir à point",
+                "Nager à temps"
+            ],
+            "background": "0",
+            "mediaType": 1,
+            "question": "Rien ne sert de courir, il faut..."
+        },
+        "questionIsPortrait": false,
+        "questionMedia": {
+            "__type": "File",
+            "name": "tfss-4fad92e1-08f2-475f-afa1-bcc1ded7cec9-question.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-4fad92e1-08f2-475f-afa1-bcc1ded7cec9-question.jpg"
+        },
+        "type": "quiz",
+        "objectId": "V2bVPnsN0p"
+    },
+    {
+        "answer": {
+            "explanation": "Rien ne sert de courir ; il faut partir à point. Le Lièvre et la Tortue en sont un témoignage. Gageons, dit celle-ci, que vous n'atteindrez point Sitôt que moi ce but. - Sitôt ? Etes-vous sage ? Repartit l'animal léger.\n\nJean de La Fontaine",
+            "mediaType": 1,
+            "rightAnswer": "Partir à point"
+        },
+        "answerIsPortrait": false,
+        "answerMedia": {
+            "__type": "File",
+            "name": "tfss-47475f58-53eb-4ac6-8f3a-bdb7a26ee699-answer.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-47475f58-53eb-4ac6-8f3a-bdb7a26ee699-answer.jpg"
+        },
+        "darkBackground": false,
+        "point": 1,
+        "question": {
+            "answerFormat": "1",
+            "answers": [
+                "Marcher dans le rang",
+                "Partir à point",
+                "Nager à temps"
+            ],
+            "background": "0",
+            "mediaType": 1,
+            "question": "Rien ne sert de courir, il faut..."
+        },
+        "questionIsPortrait": false,
+        "questionMedia": {
+            "__type": "File",
+            "name": "tfss-4fad92e1-08f2-475f-afa1-bcc1ded7cec9-question.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-4fad92e1-08f2-475f-afa1-bcc1ded7cec9-question.jpg"
+        },
+        "type": "quiz",
+        "objectId": "jG3rmSS84D"
+    },
+    {
+        "answer": {
+            "explanation": "Rien ne sert de courir ; il faut partir à point. Le Lièvre et la Tortue en sont un témoignage. Gageons, dit celle-ci, que vous n'atteindrez point Sitôt que moi ce but. - Sitôt ? Etes-vous sage ? Repartit l'animal léger.\n\nJean de La Fontaine",
+            "mediaType": 1,
+            "rightAnswer": "Partir à point"
+        },
+        "answerIsPortrait": false,
+        "answerMedia": {
+            "__type": "File",
+            "name": "tfss-47475f58-53eb-4ac6-8f3a-bdb7a26ee699-answer.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-47475f58-53eb-4ac6-8f3a-bdb7a26ee699-answer.jpg"
+        },
+        "darkBackground": false,
+        "point": 1,
+        "question": {
+            "answerFormat": "1",
+            "answers": [
+                "Marcher dans le rang",
+                "Partir à point",
+                "Nager à temps"
+            ],
+            "background": "0",
+            "mediaType": 1,
+            "question": "Rien ne sert de courir, il faut..."
+        },
+        "questionIsPortrait": false,
+        "questionMedia": {
+            "__type": "File",
+            "name": "tfss-4fad92e1-08f2-475f-afa1-bcc1ded7cec9-question.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-4fad92e1-08f2-475f-afa1-bcc1ded7cec9-question.jpg"
+        },
+        "type": "quiz",
+        "objectId": "I4ikG0OBuI"
+    },
+    {
+        "answer": {
+            "explanation": "sdfh",
+            "rightAnswer": "sdfh"
+        },
+        "answerIsPortrait": false,
+        "darkBackground": false,
+        "point": 1,
+        "question": {
+            "answerFormat": "0",
+            "answers": [
+                "sdfh",
+                "sdfh"
+            ],
+            "background": 0,
+            "question": "dsfh"
+        },
+        "questionIsPortrait": false,
+        "type": "quiz",
+        "objectId": "RFefQW0QOM"
+    },
+    {
+        "answer": {
+            "explanation": "Rien ne sert de courir ; il faut partir à point. Le Lièvre et la Tortue en sont un témoignage. Gageons, dit celle-ci, que vous n'atteindrez point Sitôt que moi ce but. - Sitôt ? Etes-vous sage ? Repartit l'animal léger.\n\nJean de La Fontaine",
+            "mediaType": 1,
+            "rightAnswer": "Partir à point"
+        },
+        "answerIsPortrait": false,
+        "answerMedia": {
+            "__type": "File",
+            "name": "tfss-af545a03-6036-4316-ae7c-6cae2c6c7e0b-answer.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-af545a03-6036-4316-ae7c-6cae2c6c7e0b-answer.jpg"
+        },
+        "darkBackground": false,
+        "point": 1,
+        "question": {
+            "answerFormat": "1",
+            "answers": [
+                "Marcher dans le rang",
+                "Partir à point",
+                "Nager à temps"
+            ],
+            "background": 1,
+            "mediaType": 1,
+            "question": "Rien ne sert de courir, il faut..."
+        },
+        "questionIsPortrait": false,
+        "questionMedia": {
+            "__type": "File",
+            "name": "tfss-4fad92e1-08f2-475f-afa1-bcc1ded7cec9-question.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-4fad92e1-08f2-475f-afa1-bcc1ded7cec9-question.jpg"
+        },
+        "type": "quiz",
+        "objectId": "LZ4LkQv7q2"
+    },
+    {
+        "answer": {
+            "explanation": "Rien ne sert de courir; il faut partir à point. Le Lièvre et la Tortue en sont un témoignage. Gageons, dit celle-ci, que vous n'atteindrez point Sitôt que moi ce but. - Sitôt ? Etes-vous sage ? Repartit l'animal léger.\n\nJean de La Fontaine",
+            "rightAnswer": "Partir à point"
+        },
+        "answerIsPortrait": false,
+        "darkBackground": true,
+        "point": 1,
+        "question": {
+            "answerFormat": "1",
+            "answers": [
+                "Marcher dans le rang",
+                "Partir à point",
+                "Nager à temps"
+            ],
+            "background": 1,
+            "mediaType": 1,
+            "question": "Rien ne sert de courir, il faut..."
+        },
+        "questionIsPortrait": false,
+        "questionMedia": {
+            "__type": "File",
+            "name": "tfss-4fad92e1-08f2-475f-afa1-bcc1ded7cec9-question.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-4fad92e1-08f2-475f-afa1-bcc1ded7cec9-question.jpg"
+        },
+        "type": "quiz",
+        "objectId": "5LHLpu3dJx"
+    },
+    {
+        "answer": {
+            "explanation": "Rien ne sert de courir ; il faut partir à point. Le Lièvre et la Tortue en sont un témoignage. Gageons, dit celle-ci, que vous n'atteindrez point Sitôt que moi ce but. - Sitôt ? Etes-vous sage ? Repartit l'animal léger.\n\nJean de La Fontaine",
+            "mediaType": 1,
+            "rightAnswer": "Partir à point"
+        },
+        "answerIsPortrait": false,
+        "answerMedia": {
+            "__type": "File",
+            "name": "tfss-ae78390c-2507-4873-a649-dbccb09da420-answer.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-ae78390c-2507-4873-a649-dbccb09da420-answer.jpg"
+        },
+        "darkBackground": false,
+        "point": 1,
+        "question": {
+            "answerFormat": "1",
+            "answers": [
+                "Marcher dans le rang",
+                "Partir à point",
+                "Nager à temps"
+            ],
+            "background": "1",
+            "mediaType": 1,
+            "question": "Rien ne sert de courir, il faut..."
+        },
+        "questionIsPortrait": false,
+        "questionMedia": {
+            "__type": "File",
+            "name": "tfss-4fad92e1-08f2-475f-afa1-bcc1ded7cec9-question.jpg",
+            "url": "http://files.parsetfss.com/f3ce0265-20f4-45d5-9d53-3220f46389ab/tfss-4fad92e1-08f2-475f-afa1-bcc1ded7cec9-question.jpg"
+        },
+        "type": "quiz",
+        "objectId": "7JvhmuctvV"
+    }
+]
